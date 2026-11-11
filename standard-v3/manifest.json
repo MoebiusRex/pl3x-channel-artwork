@@ -1,0 +1,5003 @@
+{
+  "schema": 1,
+  "design": "PL3X standard v3",
+  "channels": [
+    {
+      "number": 2,
+      "name": "PL3X Prime Time",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "clock-3",
+      "formats": {
+        "guide": {
+          "file": "guide/2-17983207d2cc.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/2-17983207d2cc.png",
+          "sha256": "17983207d2cc5ce64ed3535d26f73f68d52d3b0e8c25f08320d4879af9694522"
+        },
+        "wide": {
+          "file": "wide/2-17549bcd9d50.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/2-17549bcd9d50.png",
+          "sha256": "17549bcd9d5096d340aa342606604e6bbf38608b67ea614c4e48a84275206658"
+        }
+      }
+    },
+    {
+      "number": 3,
+      "name": "PL3X New Movie Arrivals",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/3-b8af83c5229e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/3-b8af83c5229e.png",
+          "sha256": "b8af83c5229ec7b25b947b3b8207b6ac694a9a16d0fcedb94630354b20abfca7"
+        },
+        "wide": {
+          "file": "wide/3-95bc0c2381c1.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/3-95bc0c2381c1.png",
+          "sha256": "95bc0c2381c16b6f0d702f51a5cf0623c8c54e0aa9b0cdc31253409bc1d1716d"
+        }
+      }
+    },
+    {
+      "number": 4,
+      "name": "PL3X Channel Surf",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "shuffle",
+      "formats": {
+        "guide": {
+          "file": "guide/4-e98a446897bc.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/4-e98a446897bc.png",
+          "sha256": "e98a446897bcdeb2adf0ea0727a7a3acfd6e33e048ec6a56211167cdaaef00e2"
+        },
+        "wide": {
+          "file": "wide/4-04eb3efc882e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/4-04eb3efc882e.png",
+          "sha256": "04eb3efc882ec225c74d8c61569c2e53af43887b8d896816bcfda1abafb38e63"
+        }
+      }
+    },
+    {
+      "number": 5,
+      "name": "PL3X Fresh Finds",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/5-7999f85e68a1.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/5-7999f85e68a1.png",
+          "sha256": "7999f85e68a1ec3eac54cc996029e7aaa057f4c72317166fc36f73c9b4ac68dd"
+        },
+        "wide": {
+          "file": "wide/5-b75f7f1daf90.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/5-b75f7f1daf90.png",
+          "sha256": "b75f7f1daf90270062f2a411baa8cff1ed271c9ea243db8976f2b3c899f189c4"
+        }
+      }
+    },
+    {
+      "number": 6,
+      "name": "PL3X Hidden Gems",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/6-953bce35e26c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/6-953bce35e26c.png",
+          "sha256": "953bce35e26c3d4f746c7eb19656093ce12db29b30f54eb6e72c522be8067403"
+        },
+        "wide": {
+          "file": "wide/6-a16f7cb51cdd.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/6-a16f7cb51cdd.png",
+          "sha256": "a16f7cb51cdd0709c0fc50e5ebff6b5f64ecb76e9b3685801b592ddea4d105f5"
+        }
+      }
+    },
+    {
+      "number": 7,
+      "name": "PL3X Top Rated Favorites",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/7-fef6ca6ed11e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/7-fef6ca6ed11e.png",
+          "sha256": "fef6ca6ed11ea8e4517f5164f5f11db0b1b8bb5661fb0fe35dd0034fbda6cd13"
+        },
+        "wide": {
+          "file": "wide/7-e6a297355fe9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/7-e6a297355fe9.png",
+          "sha256": "e6a297355fe9015616b7b1f85fa358068b271080d8e1cc392837306e4f5c124f"
+        }
+      }
+    },
+    {
+      "number": 8,
+      "name": "PL3X Surprise Me",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "shuffle",
+      "formats": {
+        "guide": {
+          "file": "guide/8-1f11f610f6eb.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/8-1f11f610f6eb.png",
+          "sha256": "1f11f610f6eb337988ac525447d0966426e215895b8a67a90deb163cc1c48184"
+        },
+        "wide": {
+          "file": "wide/8-55bcb1b06813.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/8-55bcb1b06813.png",
+          "sha256": "55bcb1b0681374003b8aedb6a85b837824eb775a608826af9c5758daec3b606e"
+        }
+      }
+    },
+    {
+      "number": 9,
+      "name": "PL3X Weekend Showcase",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "sun",
+      "formats": {
+        "guide": {
+          "file": "guide/9-4e059d3d5896.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/9-4e059d3d5896.png",
+          "sha256": "4e059d3d58961f28a867169edc770e2eec920f9598b0ba32a61d675469fe84ff"
+        },
+        "wide": {
+          "file": "wide/9-14fc3ea4d1d9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/9-14fc3ea4d1d9.png",
+          "sha256": "14fc3ea4d1d9cbe6df89d800b1e2b0f18806af98c63d24d11e3827e34e691a77"
+        }
+      }
+    },
+    {
+      "number": 10,
+      "name": "PL3X Action Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/10-df4010e41510.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/10-df4010e41510.png",
+          "sha256": "df4010e41510b7e19d015b99f6506f641fff3d40b81d8cc648f334f9c80485e8"
+        },
+        "wide": {
+          "file": "wide/10-559adbd3bdf5.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/10-559adbd3bdf5.png",
+          "sha256": "559adbd3bdf53ce66854d1d1bea6b6a5dcc198dec98c87365194fb2c54edaefc"
+        }
+      }
+    },
+    {
+      "number": 11,
+      "name": "PL3X Comedy Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/11-3ac8a0ae0dcc.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/11-3ac8a0ae0dcc.png",
+          "sha256": "3ac8a0ae0dcc36ea222a98df735300dff809f870f074138c1b947f57973b64cd"
+        },
+        "wide": {
+          "file": "wide/11-512a0d23de60.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/11-512a0d23de60.png",
+          "sha256": "512a0d23de60e293d067eac8b8c91b70d8efe82006d170eb5b1f5b622b2c6ab8"
+        }
+      }
+    },
+    {
+      "number": 12,
+      "name": "PL3X Sci-Fi Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/12-08b6fa12d73f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/12-08b6fa12d73f.png",
+          "sha256": "08b6fa12d73fa925921441286501c1531b5bb098db6e68d3f2b68e2205d1c35f"
+        },
+        "wide": {
+          "file": "wide/12-4e062de41fb7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/12-4e062de41fb7.png",
+          "sha256": "4e062de41fb7151d5629eb18882d08fb6dab495d9005a50eb66b48f72987c657"
+        }
+      }
+    },
+    {
+      "number": 13,
+      "name": "PL3X Horror Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/13-cc9d9490dabc.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/13-cc9d9490dabc.png",
+          "sha256": "cc9d9490dabca1426f41d6edfe681e6526aa30c2b823faba73b1eb0cab8304de"
+        },
+        "wide": {
+          "file": "wide/13-0fb091ddbc39.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/13-0fb091ddbc39.png",
+          "sha256": "0fb091ddbc39de9b04d5a28fa8c4d02dbc91acf4f19b80822248256df54e63a5"
+        }
+      }
+    },
+    {
+      "number": 14,
+      "name": "PL3X Thriller Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/14-c27fe777f108.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/14-c27fe777f108.png",
+          "sha256": "c27fe777f108697067fa4b3a27b3fce29688881a9cff7dfb7135ba0029101ae4"
+        },
+        "wide": {
+          "file": "wide/14-b51112e548aa.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/14-b51112e548aa.png",
+          "sha256": "b51112e548aa1e944b5db1579fafc0c181a0de4a5dc0f1b06622055a646306cf"
+        }
+      }
+    },
+    {
+      "number": 15,
+      "name": "PL3X Drama Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "book-open",
+      "formats": {
+        "guide": {
+          "file": "guide/15-727bc23ed563.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/15-727bc23ed563.png",
+          "sha256": "727bc23ed563bf7d6cc61fcdc8c8c017e5905883c4247ecd55e76cabf9607176"
+        },
+        "wide": {
+          "file": "wide/15-b18ff28cd467.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/15-b18ff28cd467.png",
+          "sha256": "b18ff28cd4671ef81d02934f077842948be7174e2adb91e9c0bc2c50a2eb9081"
+        }
+      }
+    },
+    {
+      "number": 16,
+      "name": "PL3X Mystery Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/16-9752a9625cec.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/16-9752a9625cec.png",
+          "sha256": "9752a9625ceca67f9d397395be558d560c11197226a37f1042fa77554bfd1e00"
+        },
+        "wide": {
+          "file": "wide/16-6bfcf3bf9157.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/16-6bfcf3bf9157.png",
+          "sha256": "6bfcf3bf915712297380301c215c48ea11cde3868c79072cd2d48f573363c99b"
+        }
+      }
+    },
+    {
+      "number": 17,
+      "name": "PL3X Fantasy Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "wand-sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/17-bc3e575ca30f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/17-bc3e575ca30f.png",
+          "sha256": "bc3e575ca30f297f9c584293faf4005a67187a21ec8670687013b79470c35aaa"
+        },
+        "wide": {
+          "file": "wide/17-f2a5fb37bf76.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/17-f2a5fb37bf76.png",
+          "sha256": "f2a5fb37bf7623d28746b889d47e4a501c3e322a6fb164eb0a8a0350341674a4"
+        }
+      }
+    },
+    {
+      "number": 18,
+      "name": "PL3X Adventure Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/18-8fe5cb90d96d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/18-8fe5cb90d96d.png",
+          "sha256": "8fe5cb90d96dd58f2e9a7470b7f7e65bcce97cbd8313f81978dae946fb498343"
+        },
+        "wide": {
+          "file": "wide/18-01666712f8c9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/18-01666712f8c9.png",
+          "sha256": "01666712f8c9d72bb5d5db722149dc2f6dce533be97f9594d49ac47f06613ac4"
+        }
+      }
+    },
+    {
+      "number": 19,
+      "name": "PL3X Crime Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "badge",
+      "formats": {
+        "guide": {
+          "file": "guide/19-d05b65d31e76.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/19-d05b65d31e76.png",
+          "sha256": "d05b65d31e764ad897ae129769416cd1905e9e9cb9cd5ebf9408a79b1827b268"
+        },
+        "wide": {
+          "file": "wide/19-6adcd4043a43.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/19-6adcd4043a43.png",
+          "sha256": "6adcd4043a432c2ae4f9e26f5ac4589fc1d477aadf0d8dd56496ba7ca748c1aa"
+        }
+      }
+    },
+    {
+      "number": 20,
+      "name": "PL3X Animated Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/20-5ba2d1ee8c02.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/20-5ba2d1ee8c02.png",
+          "sha256": "5ba2d1ee8c02cf16d9126a2ce7b432198021440c5376d800d9c047f3ac842e53"
+        },
+        "wide": {
+          "file": "wide/20-3d5b1b17721e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/20-3d5b1b17721e.png",
+          "sha256": "3d5b1b17721e2305e57044de489a0aa5df15ef43efa5ac635c87dae9633c104b"
+        }
+      }
+    },
+    {
+      "number": 21,
+      "name": "PL3X Family Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/21-123c355c4fd6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/21-123c355c4fd6.png",
+          "sha256": "123c355c4fd659d2402f1b5092b4f373b8a38e6725a4e4dfbc4ea88e57a095dd"
+        },
+        "wide": {
+          "file": "wide/21-b4a1edb418eb.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/21-b4a1edb418eb.png",
+          "sha256": "b4a1edb418eb893bc9da1d84e2153743c4232ea69de894d87ee27202d5a3d266"
+        }
+      }
+    },
+    {
+      "number": 22,
+      "name": "PL3X Romance Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "heart",
+      "formats": {
+        "guide": {
+          "file": "guide/22-57fff1befd6c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/22-57fff1befd6c.png",
+          "sha256": "57fff1befd6cfd477e2782b8c9e42c18a7f92a8766ced491a151c2ff834ff9f0"
+        },
+        "wide": {
+          "file": "wide/22-cdfa92abee34.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/22-cdfa92abee34.png",
+          "sha256": "cdfa92abee34afca2645f429b3c3ea8de935f47467ba6fa48182c2df82a85cf3"
+        }
+      }
+    },
+    {
+      "number": 23,
+      "name": "PL3X Documentary Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "binoculars",
+      "formats": {
+        "guide": {
+          "file": "guide/23-bad23ba3cca6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/23-bad23ba3cca6.png",
+          "sha256": "bad23ba3cca6214cc5b260129487c416deeb2250b33bc7c24dd3a5f8a1e97305"
+        },
+        "wide": {
+          "file": "wide/23-d7eefb3ead88.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/23-d7eefb3ead88.png",
+          "sha256": "d7eefb3ead88579d442b6cf0b8cc26cd5e07430cf154b8b3730e453fcec38547"
+        }
+      }
+    },
+    {
+      "number": 24,
+      "name": "PL3X Western Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "sunset",
+      "formats": {
+        "guide": {
+          "file": "guide/24-136f3a8b6260.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/24-136f3a8b6260.png",
+          "sha256": "136f3a8b62605bd0f3341380d19f4c53515f3e09a461b1cc81125e10ecfbb3ab"
+        },
+        "wide": {
+          "file": "wide/24-324f202a167c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/24-324f202a167c.png",
+          "sha256": "324f202a167c3bb3b2c186129eb88f8cbb10440ce615a912d6c7b73b4f9e1eb7"
+        }
+      }
+    },
+    {
+      "number": 25,
+      "name": "PL3X War Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "swords",
+      "formats": {
+        "guide": {
+          "file": "guide/25-3daf8cb9e18d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/25-3daf8cb9e18d.png",
+          "sha256": "3daf8cb9e18dd806d77c6d9d5d7064d8826665d2c63ab985550960778e994c63"
+        },
+        "wide": {
+          "file": "wide/25-1df895062645.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/25-1df895062645.png",
+          "sha256": "1df89506264595b5291ad5e2af6aa07001960c746403d02f0b1c06cdd61883a2"
+        }
+      }
+    },
+    {
+      "number": 26,
+      "name": "PL3X Classic Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/26-ba663ba958b6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/26-ba663ba958b6.png",
+          "sha256": "ba663ba958b6b7127c3ec5a7abb7835830c35e15d728627b5fadee5e85044af1"
+        },
+        "wide": {
+          "file": "wide/26-286dd6e3ab08.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/26-286dd6e3ab08.png",
+          "sha256": "286dd6e3ab08edf113fc31a5f2719f16c1d153d3f2868444d26511e60c382f1a"
+        }
+      }
+    },
+    {
+      "number": 27,
+      "name": "PL3X Horror & Thriller Films",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/27-2dbe07529ce6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/27-2dbe07529ce6.png",
+          "sha256": "2dbe07529ce688ee7bdeabdd83945754158200e074ae7b1f75bc1321974088cb"
+        },
+        "wide": {
+          "file": "wide/27-b737dccaef4f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/27-b737dccaef4f.png",
+          "sha256": "b737dccaef4f3002ef1121e688aeb9e49b4ffbb90186ef4051fcad9d0c4dc3d0"
+        }
+      }
+    },
+    {
+      "number": 28,
+      "name": "PL3X 1980s Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/28-d0e1b2a5b53e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/28-d0e1b2a5b53e.png",
+          "sha256": "d0e1b2a5b53e34a80c3b7ccc7b76ba0e8f9917374448c59f51b7f08a0fd943e0"
+        },
+        "wide": {
+          "file": "wide/28-a79d93874d22.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/28-a79d93874d22.png",
+          "sha256": "a79d93874d22763ff1a2bce31e352dba39dc1180418534877add2e5c343f83c6"
+        }
+      }
+    },
+    {
+      "number": 29,
+      "name": "PL3X 1990s & 2000s Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/29-c0c9e8cbbc39.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/29-c0c9e8cbbc39.png",
+          "sha256": "c0c9e8cbbc39d94abf0b3c3dfe85b12743eff5eaebd4d89c4ec402db4b6f5360"
+        },
+        "wide": {
+          "file": "wide/29-301659ac8a91.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/29-301659ac8a91.png",
+          "sha256": "301659ac8a91c266a21ad7fae739b4762c875c9f01120be14a3a40c0b36c7c09"
+        }
+      }
+    },
+    {
+      "number": 30,
+      "name": "PL3X Action TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/30-b261089012a1.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/30-b261089012a1.png",
+          "sha256": "b261089012a1ae4ea763c5e0abe6511ae09117ec0f3f5594477261cbe8c1a1ba"
+        },
+        "wide": {
+          "file": "wide/30-a0bb952a323a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/30-a0bb952a323a.png",
+          "sha256": "a0bb952a323a02da65c75d1bbbb1e3f43412250b07f46f7751bfb1aa2afe92e3"
+        }
+      }
+    },
+    {
+      "number": 31,
+      "name": "PL3X Comedy TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/31-ae0fa3961b7c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/31-ae0fa3961b7c.png",
+          "sha256": "ae0fa3961b7cfffd57afb58a5d84bc807572f106fd2eade552dc23df7897b84c"
+        },
+        "wide": {
+          "file": "wide/31-8134b12aa93a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/31-8134b12aa93a.png",
+          "sha256": "8134b12aa93affed2096e2f4b7ecd484a0cdedf2eca706a5d0edc18828275efb"
+        }
+      }
+    },
+    {
+      "number": 32,
+      "name": "PL3X Sci-Fi TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/32-105e227b803c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/32-105e227b803c.png",
+          "sha256": "105e227b803ccb07ce8ca3ce907efaa692191719b651664379baf88bbea35ff4"
+        },
+        "wide": {
+          "file": "wide/32-7bc80cd33151.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/32-7bc80cd33151.png",
+          "sha256": "7bc80cd33151498030af0089fbdbe583302f1066d014a0615af745731db14758"
+        }
+      }
+    },
+    {
+      "number": 33,
+      "name": "PL3X Horror TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/33-fd174cdae3b0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/33-fd174cdae3b0.png",
+          "sha256": "fd174cdae3b0637084d683ee0f82715d6bf18e59bf988297419f2ebf1edc29de"
+        },
+        "wide": {
+          "file": "wide/33-f176531250be.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/33-f176531250be.png",
+          "sha256": "f176531250be598882548a52ecc3d74885bf3120938e82f1608a5bc2c26c11e1"
+        }
+      }
+    },
+    {
+      "number": 34,
+      "name": "PL3X Thriller TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/34-abbbd3876346.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/34-abbbd3876346.png",
+          "sha256": "abbbd38763461e927c0d6a117ed6cc95dc7d2c63e43f7f810aef997a52d18434"
+        },
+        "wide": {
+          "file": "wide/34-2956288dfab1.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/34-2956288dfab1.png",
+          "sha256": "2956288dfab1750e29a749f7edf6102216ba1a1d86aba87c9f5115460d7c62e8"
+        }
+      }
+    },
+    {
+      "number": 35,
+      "name": "PL3X Drama TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "book-open",
+      "formats": {
+        "guide": {
+          "file": "guide/35-4fe6573ee3bb.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/35-4fe6573ee3bb.png",
+          "sha256": "4fe6573ee3bb4d1f0df9ae5690443d155641618a0488dcc62ee7c05d2b754030"
+        },
+        "wide": {
+          "file": "wide/35-ad7217ae71ca.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/35-ad7217ae71ca.png",
+          "sha256": "ad7217ae71ca8d182232d182546f6da5a36563ab0cb8c70074cabfa9200552a6"
+        }
+      }
+    },
+    {
+      "number": 36,
+      "name": "PL3X Mystery TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/36-bf5201eee350.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/36-bf5201eee350.png",
+          "sha256": "bf5201eee3501b0e8890652e56fc56d2aedb37e549cbcf16e7c422eb7d8008ef"
+        },
+        "wide": {
+          "file": "wide/36-e4dd8630d45d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/36-e4dd8630d45d.png",
+          "sha256": "e4dd8630d45dcc1d252af1bb7358b2541ff25a68a8034ea9fc77c87459030c8b"
+        }
+      }
+    },
+    {
+      "number": 37,
+      "name": "PL3X Fantasy TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "wand-sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/37-04af44fb746b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/37-04af44fb746b.png",
+          "sha256": "04af44fb746b23e13f2c49004a43796248b137a628461c24cce4d87e1586fa94"
+        },
+        "wide": {
+          "file": "wide/37-a24084d9bcd3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/37-a24084d9bcd3.png",
+          "sha256": "a24084d9bcd3ffc0615aac0c5e092e720f546983e37bde482461f5657e32bb14"
+        }
+      }
+    },
+    {
+      "number": 38,
+      "name": "PL3X Adventure TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/38-22843f5a254f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/38-22843f5a254f.png",
+          "sha256": "22843f5a254ff249c16fc968506659506f9ef07cf60b620789b32495a86ebb6a"
+        },
+        "wide": {
+          "file": "wide/38-3ab0c48b5fe7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/38-3ab0c48b5fe7.png",
+          "sha256": "3ab0c48b5fe7360cff3f203ddf78b107fcb4bb4cf224f2eb4fdd92529db6b5a4"
+        }
+      }
+    },
+    {
+      "number": 39,
+      "name": "PL3X Crime TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "badge",
+      "formats": {
+        "guide": {
+          "file": "guide/39-633764cffecf.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/39-633764cffecf.png",
+          "sha256": "633764cffecfbc64bc3e2ea045d4915666b01700f8b70037c80ad25a87e3ba4c"
+        },
+        "wide": {
+          "file": "wide/39-ade2177649f1.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/39-ade2177649f1.png",
+          "sha256": "ade2177649f1d4935fc37c9a381e5c1708a7c3e618c81d5b28526c24348ccb8d"
+        }
+      }
+    },
+    {
+      "number": 40,
+      "name": "PL3X Animated TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/40-d65e7af4939e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/40-d65e7af4939e.png",
+          "sha256": "d65e7af4939e9626f4b041aba355e0263b0a40f92ca6a0fd1615cdbd3dfdb8a5"
+        },
+        "wide": {
+          "file": "wide/40-e27c37f16fa0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/40-e27c37f16fa0.png",
+          "sha256": "e27c37f16fa081bdec0a87ca77ab57346ff0b207288aa92e44094badfb20dd64"
+        }
+      }
+    },
+    {
+      "number": 41,
+      "name": "PL3X Family TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/41-6965cd2e0fe8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/41-6965cd2e0fe8.png",
+          "sha256": "6965cd2e0fe8b6a56854efd2975ef751ca8d352f6f9b5ab18ead6d40e58b86f6"
+        },
+        "wide": {
+          "file": "wide/41-c8a4037f135a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/41-c8a4037f135a.png",
+          "sha256": "c8a4037f135a3f7bba40c6e814936fce746294f23b73791332be16f9f32908d4"
+        }
+      }
+    },
+    {
+      "number": 42,
+      "name": "PL3X Romance TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "heart",
+      "formats": {
+        "guide": {
+          "file": "guide/42-48e709f68be9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/42-48e709f68be9.png",
+          "sha256": "48e709f68be9a0da289b5f5c8c79ba2fcfc75421b1d27264a65cbf348459307b"
+        },
+        "wide": {
+          "file": "wide/42-9515ee78272d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/42-9515ee78272d.png",
+          "sha256": "9515ee78272d050f2879990c14b6641b5783a38eedb79073bbde72371d8ff841"
+        }
+      }
+    },
+    {
+      "number": 43,
+      "name": "PL3X Documentary TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "binoculars",
+      "formats": {
+        "guide": {
+          "file": "guide/43-39ce49b7e05d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/43-39ce49b7e05d.png",
+          "sha256": "39ce49b7e05d883043d408a7dd77b685af13300c2aa9d277b7477e57f3c798db"
+        },
+        "wide": {
+          "file": "wide/43-232e7ef9ad89.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/43-232e7ef9ad89.png",
+          "sha256": "232e7ef9ad896b752dd841b14c828e6f1ca97cb839f8fe195dcf2019e67dc672"
+        }
+      }
+    },
+    {
+      "number": 44,
+      "name": "PL3X Western TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "sunset",
+      "formats": {
+        "guide": {
+          "file": "guide/44-2749397b9769.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/44-2749397b9769.png",
+          "sha256": "2749397b9769fd13b7c541288e39ac5fb61dae56c6b180058dbc835b9433b848"
+        },
+        "wide": {
+          "file": "wide/44-b043f62a6d25.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/44-b043f62a6d25.png",
+          "sha256": "b043f62a6d25f07ec0eb7caf8936d379557012146a3164178782a1b9f8aa26d6"
+        }
+      }
+    },
+    {
+      "number": 45,
+      "name": "PL3X Military & War TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "swords",
+      "formats": {
+        "guide": {
+          "file": "guide/45-a8106569a503.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/45-a8106569a503.png",
+          "sha256": "a8106569a503565706f89d6d47f4c95e28b483b25c06235d8029956ed2654624"
+        },
+        "wide": {
+          "file": "wide/45-d1f59d189fea.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/45-d1f59d189fea.png",
+          "sha256": "d1f59d189feaac59fd45d3be68e83fda523379038fdfea1311e4efb1db3ca34b"
+        }
+      }
+    },
+    {
+      "number": 46,
+      "name": "PL3X Classic TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/46-c5f097b364ac.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/46-c5f097b364ac.png",
+          "sha256": "c5f097b364acf75a063d0a174324da5ee0fa42e95f584a297962c0c2aff0d641"
+        },
+        "wide": {
+          "file": "wide/46-3d8b107ff1a7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/46-3d8b107ff1a7.png",
+          "sha256": "3d8b107ff1a7b680001b90c863137eb5fc0d8bc662d833633b281fdbe59b8671"
+        }
+      }
+    },
+    {
+      "number": 47,
+      "name": "PL3X Fantasy & Adventure TV",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "wand-sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/47-595fb3ef4e6d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/47-595fb3ef4e6d.png",
+          "sha256": "595fb3ef4e6dc0b5f2c101e0a3c6066b7d08d8dc4923d15bddc65ad6604c8420"
+        },
+        "wide": {
+          "file": "wide/47-d3c0013a3135.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/47-d3c0013a3135.png",
+          "sha256": "d3c0013a31355dc78aef523de807d8fac8e0183f0734112008c3de79e94ddb8a"
+        }
+      }
+    },
+    {
+      "number": 48,
+      "name": "PL3X Half-Hour Comedy",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/48-29623eccd62a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/48-29623eccd62a.png",
+          "sha256": "29623eccd62a5686acb3e913cf0ef2475c7e955250f2e2d7029423aa6883b561"
+        },
+        "wide": {
+          "file": "wide/48-b7a365b585fd.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/48-b7a365b585fd.png",
+          "sha256": "b7a365b585fd97c7fc1801cfb3b9306c2df6db1d534adea1bfafb339b52ff11f"
+        }
+      }
+    },
+    {
+      "number": 49,
+      "name": "PL3X Drama Marathons",
+      "group": "PL3X Television",
+      "category": "TELEVISION",
+      "icon": "book-open",
+      "formats": {
+        "guide": {
+          "file": "guide/49-f6c83c1d1a09.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/49-f6c83c1d1a09.png",
+          "sha256": "f6c83c1d1a09add0e499af9b9ad350f89c30567b9ff997b426d10e54956a19fe"
+        },
+        "wide": {
+          "file": "wide/49-15eb027f3871.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/49-15eb027f3871.png",
+          "sha256": "15eb027f38710f08003616c88862f1a92177c3bd0b9280f09ae2d4e44607030c"
+        }
+      }
+    },
+    {
+      "number": 50,
+      "name": "PL3X Action Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/50-b2a16b91d856.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/50-b2a16b91d856.png",
+          "sha256": "b2a16b91d856096dc04030333fc10b0b7b68afa11f4f5d66e7731b4968d5e100"
+        },
+        "wide": {
+          "file": "wide/50-d6afe3dc47bf.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/50-d6afe3dc47bf.png",
+          "sha256": "d6afe3dc47bf69e0df61ab6a036ad6628832111b42bed248adf4cb8f27bbe0f3"
+        }
+      }
+    },
+    {
+      "number": 51,
+      "name": "PL3X Comedy Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/51-1aa002e24e15.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/51-1aa002e24e15.png",
+          "sha256": "1aa002e24e154a88b416e954b7485514e4f81504b5d29d5b2dc0388f34fb22ec"
+        },
+        "wide": {
+          "file": "wide/51-635e05e9bb37.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/51-635e05e9bb37.png",
+          "sha256": "635e05e9bb378616ef79e08d9c79478ebd9f0b37507b58db0ad5bba5102544ec"
+        }
+      }
+    },
+    {
+      "number": 52,
+      "name": "PL3X Sci-Fi Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/52-443827c0f55c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/52-443827c0f55c.png",
+          "sha256": "443827c0f55c2a2d84f74c2e79028067edea8512f01c3776302354e8bd23b1a0"
+        },
+        "wide": {
+          "file": "wide/52-ff17e528cc00.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/52-ff17e528cc00.png",
+          "sha256": "ff17e528cc00c089a5658258ffa45b9c0961ecd057387239d7ec8ab1070ab2f6"
+        }
+      }
+    },
+    {
+      "number": 53,
+      "name": "PL3X Horror Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/53-2661ef7fa5c5.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/53-2661ef7fa5c5.png",
+          "sha256": "2661ef7fa5c55ec8c577ad4ddb583e6d5fc38b6e11eb88ba92fdd67273cd775e"
+        },
+        "wide": {
+          "file": "wide/53-1910b2b2df87.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/53-1910b2b2df87.png",
+          "sha256": "1910b2b2df87ffba5648716f5532874a6a4330fdb55096cc0db060a725f0fb28"
+        }
+      }
+    },
+    {
+      "number": 54,
+      "name": "PL3X Thriller Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/54-4648a4373e86.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/54-4648a4373e86.png",
+          "sha256": "4648a4373e86185577686fb39c12deaae6da8dedd078db07a207ccaaea5aaf11"
+        },
+        "wide": {
+          "file": "wide/54-b3e1bcceca91.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/54-b3e1bcceca91.png",
+          "sha256": "b3e1bcceca912b8ce1844aab541902ecaa16529c35d95498e3023e7680aba62c"
+        }
+      }
+    },
+    {
+      "number": 55,
+      "name": "PL3X Drama Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "book-open",
+      "formats": {
+        "guide": {
+          "file": "guide/55-2a7f8db0add9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/55-2a7f8db0add9.png",
+          "sha256": "2a7f8db0add989ef74c682c0c59aab924c2b1a2b0d95e453c8a23455ff13af3c"
+        },
+        "wide": {
+          "file": "wide/55-27b44c5cf6c4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/55-27b44c5cf6c4.png",
+          "sha256": "27b44c5cf6c4d2b9c7226b15ad896a9d73638a8b2d334ff562df5e880243253d"
+        }
+      }
+    },
+    {
+      "number": 56,
+      "name": "PL3X Mystery Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/56-1ff7a089ef7d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/56-1ff7a089ef7d.png",
+          "sha256": "1ff7a089ef7d647004eceef57715dde4ffe8e314501ab32c28221cfdb9b3e69f"
+        },
+        "wide": {
+          "file": "wide/56-6fd8b8c7d7eb.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/56-6fd8b8c7d7eb.png",
+          "sha256": "6fd8b8c7d7eb999456252951c1b22fa51357f00fe18739471034abdcac56571f"
+        }
+      }
+    },
+    {
+      "number": 57,
+      "name": "PL3X Fantasy Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "wand-sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/57-fb556d6d94af.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/57-fb556d6d94af.png",
+          "sha256": "fb556d6d94af90c5ea7aafc00f8ab0a9de6bc833c3014723f7f9ab98761a9ebd"
+        },
+        "wide": {
+          "file": "wide/57-989f0ec23150.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/57-989f0ec23150.png",
+          "sha256": "989f0ec231502669f48928db2f4fa513c24e71fee76cccbb9b8d165217713931"
+        }
+      }
+    },
+    {
+      "number": 58,
+      "name": "PL3X Adventure Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/58-cc2f9d360490.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/58-cc2f9d360490.png",
+          "sha256": "cc2f9d36049040894e09d545430074786e4c856900f0ee943cdc2698f382c569"
+        },
+        "wide": {
+          "file": "wide/58-c095b137934b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/58-c095b137934b.png",
+          "sha256": "c095b137934b07c64712dfbe1567647afa6ac543f7ab0a81311b69d9476effc8"
+        }
+      }
+    },
+    {
+      "number": 59,
+      "name": "PL3X Crime Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "badge",
+      "formats": {
+        "guide": {
+          "file": "guide/59-2e216fdac40e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/59-2e216fdac40e.png",
+          "sha256": "2e216fdac40ece42ec8e7cf2becd4746c32142fec24fe54a7cb2095eba6e9225"
+        },
+        "wide": {
+          "file": "wide/59-31839fb2b9f9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/59-31839fb2b9f9.png",
+          "sha256": "31839fb2b9f9839bbee10c55d1bc790b936d16e382a2742bf27634c8134a324f"
+        }
+      }
+    },
+    {
+      "number": 60,
+      "name": "PL3X Animation Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/60-5827991c439d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/60-5827991c439d.png",
+          "sha256": "5827991c439d030fb144a5cde6f0b94eec384aa116fbf7f0b57dcbc722959aad"
+        },
+        "wide": {
+          "file": "wide/60-6a76af9cd35b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/60-6a76af9cd35b.png",
+          "sha256": "6a76af9cd35b1707ea87288d5df85cc91cb1aec414c934d0d53379f4cd9213d1"
+        }
+      }
+    },
+    {
+      "number": 61,
+      "name": "PL3X Family Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/61-30a6f998911a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/61-30a6f998911a.png",
+          "sha256": "30a6f998911a52f596c36502ecf3249eb93ee827e3d8a6a248f5ba625380022c"
+        },
+        "wide": {
+          "file": "wide/61-b1183ddd5c96.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/61-b1183ddd5c96.png",
+          "sha256": "b1183ddd5c96324d347a588e4227ba7f2e996ad4a6115abe94a28de152af808e"
+        }
+      }
+    },
+    {
+      "number": 62,
+      "name": "PL3X Romance Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "heart",
+      "formats": {
+        "guide": {
+          "file": "guide/62-2c2e5f0a7c3a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/62-2c2e5f0a7c3a.png",
+          "sha256": "2c2e5f0a7c3a3d8ab8f5338544383465ad6fe23f2d3152f54d4c021ad175fa61"
+        },
+        "wide": {
+          "file": "wide/62-72b9b2886c44.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/62-72b9b2886c44.png",
+          "sha256": "72b9b2886c4453cf071168a4fcd9077df2c51e391beccf2023ce0b4a7ada062b"
+        }
+      }
+    },
+    {
+      "number": 63,
+      "name": "PL3X Documentary & Adventure Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "binoculars",
+      "formats": {
+        "guide": {
+          "file": "guide/63-52c952b8da2f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/63-52c952b8da2f.png",
+          "sha256": "52c952b8da2f0beac8688acd0944b13442d85188a77fe3ee83dbc45c3705b343"
+        },
+        "wide": {
+          "file": "wide/63-ab337f7caecc.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/63-ab337f7caecc.png",
+          "sha256": "ab337f7caecc72612b4126df3f1ae015c9a2e26e982e80c87f499f9bc702a4bc"
+        }
+      }
+    },
+    {
+      "number": 64,
+      "name": "PL3X Western Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "sunset",
+      "formats": {
+        "guide": {
+          "file": "guide/64-6502eff626e1.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/64-6502eff626e1.png",
+          "sha256": "6502eff626e1259a3be4cf57bff7b132c38d06f6063ecbdd34e6f92e9fdb5a8c"
+        },
+        "wide": {
+          "file": "wide/64-257ca983ad8d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/64-257ca983ad8d.png",
+          "sha256": "257ca983ad8d2e4514470539cb77ec14caf5cfb07d93a7b201962ba60c2926ac"
+        }
+      }
+    },
+    {
+      "number": 65,
+      "name": "PL3X War & Fantasy Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "wand-sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/65-cff94b1b1662.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/65-cff94b1b1662.png",
+          "sha256": "cff94b1b1662e5f068dd2624e12bb9e56410e646a704e18164311d523079b37c"
+        },
+        "wide": {
+          "file": "wide/65-631d0799d83f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/65-631d0799d83f.png",
+          "sha256": "631d0799d83f9a57d81e3fbb5140e49222319999618cdbd22b1a337c5369c40c"
+        }
+      }
+    },
+    {
+      "number": 66,
+      "name": "PL3X Classic Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "shuffle",
+      "formats": {
+        "guide": {
+          "file": "guide/66-5f0d4cb02cac.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/66-5f0d4cb02cac.png",
+          "sha256": "5f0d4cb02cac63268497426dbb03090a126fc71e40b8b0d9a90f8ef51e20f33c"
+        },
+        "wide": {
+          "file": "wide/66-70dd4c8b6b32.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/66-70dd4c8b6b32.png",
+          "sha256": "70dd4c8b6b328543f4299e5af884b454da658e3a067c6e4d9e1df96f97f6cd7d"
+        }
+      }
+    },
+    {
+      "number": 67,
+      "name": "PL3X Superhero & Sci-Fi Mix",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/67-4f7e592726c7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/67-4f7e592726c7.png",
+          "sha256": "4f7e592726c75c483062db18eff790e20c6e89d5006e8849d0ff4a2a6a8cc0a3"
+        },
+        "wide": {
+          "file": "wide/67-03280deecbe3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/67-03280deecbe3.png",
+          "sha256": "03280deecbe343bbabce6ba361b5aa77c6e12e07bb4ce988959fe93d19f3c42f"
+        }
+      }
+    },
+    {
+      "number": 68,
+      "name": "PL3X Sci-Fi Movies & TV",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/68-63409401a33b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/68-63409401a33b.png",
+          "sha256": "63409401a33bb9aab4ef0454ae6b0f374ff101f7acb4323521e3320f51776274"
+        },
+        "wide": {
+          "file": "wide/68-e7d13cb9790d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/68-e7d13cb9790d.png",
+          "sha256": "e7d13cb9790d4e2e609b0641631bef5ce37f39bc94fb7dd50341d45e8ef8f85b"
+        }
+      }
+    },
+    {
+      "number": 69,
+      "name": "PL3X Retro Movies & Classic TV",
+      "group": "PL3X Mixed",
+      "category": "MIXED",
+      "icon": "shuffle",
+      "formats": {
+        "guide": {
+          "file": "guide/69-ac403dab3bf4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/69-ac403dab3bf4.png",
+          "sha256": "ac403dab3bf40e5d49c615dc371563ce6cfc8a9470384c0176a044a99779ec59"
+        },
+        "wide": {
+          "file": "wide/69-2f2ababd6679.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/69-2f2ababd6679.png",
+          "sha256": "2f2ababd6679e19a4cc4803a4cc0b1304787e512c574d6aae686a7ff9c137fce"
+        }
+      }
+    },
+    {
+      "number": 70,
+      "name": "PL3X Star Trek TV Marathon",
+      "group": "PL3X Marathons",
+      "category": "MARATHONS",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/70-818a2b0279b5.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/70-818a2b0279b5.png",
+          "sha256": "818a2b0279b539452b7e7859fdde583e8df360ff53c40ea62624e1d306c47da8"
+        },
+        "wide": {
+          "file": "wide/70-5ff8651c5d92.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/70-5ff8651c5d92.png",
+          "sha256": "5ff8651c5d9231ea154bf68ea8f8125c63572a281e807f1217216f344960e459"
+        }
+      }
+    },
+    {
+      "number": 71,
+      "name": "PL3X South Park Marathon",
+      "group": "PL3X Marathons",
+      "category": "MARATHONS",
+      "icon": "mountain-snow",
+      "formats": {
+        "guide": {
+          "file": "guide/71-829fc7d5320a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/71-829fc7d5320a.png",
+          "sha256": "829fc7d5320a1ab9e70a2ba3669224d788739185e8aadd0e68b98d7944850628"
+        },
+        "wide": {
+          "file": "wide/71-13fcafb772a8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/71-13fcafb772a8.png",
+          "sha256": "13fcafb772a81fc6e5571aeff836e5986a5c0601d15a1c63d7ee0902a020f10a"
+        }
+      }
+    },
+    {
+      "number": 72,
+      "name": "PL3X Doctor Who Marathon",
+      "group": "PL3X Marathons",
+      "category": "MARATHONS",
+      "icon": "clock-3",
+      "formats": {
+        "guide": {
+          "file": "guide/72-be8119c7b4a8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/72-be8119c7b4a8.png",
+          "sha256": "be8119c7b4a80eff81c7ac8833fba9557c5f203cae605910b8ce0b9894ab93fa"
+        },
+        "wide": {
+          "file": "wide/72-cf35231cf419.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/72-cf35231cf419.png",
+          "sha256": "cf35231cf419d419a894eaa50f11aafbdf0cc7ce14390b51a7ff8d461aca9b82"
+        }
+      }
+    },
+    {
+      "number": 73,
+      "name": "PL3X The Twilight Zone Marathon",
+      "group": "PL3X Marathons",
+      "category": "MARATHONS",
+      "icon": "door-open",
+      "formats": {
+        "guide": {
+          "file": "guide/73-217855c08a94.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/73-217855c08a94.png",
+          "sha256": "217855c08a94081a5251573393f29bd20fbddecef7ccdbfcbc6b1b1f3929e3bd"
+        },
+        "wide": {
+          "file": "wide/73-d6448ff9e39c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/73-d6448ff9e39c.png",
+          "sha256": "d6448ff9e39c2d556084e226d02fd1417e021e136a43641108860ea6e169e6da"
+        }
+      }
+    },
+    {
+      "number": 74,
+      "name": "PL3X Dragon Ball Z Marathon",
+      "group": "PL3X Marathons",
+      "category": "MARATHONS",
+      "icon": "flame",
+      "formats": {
+        "guide": {
+          "file": "guide/74-dbaf1daeb912.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/74-dbaf1daeb912.png",
+          "sha256": "dbaf1daeb912f2964a4cfbae15ff12da8857768600b8db81cacb733a6f59689c"
+        },
+        "wide": {
+          "file": "wide/74-034d850b79f8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/74-034d850b79f8.png",
+          "sha256": "034d850b79f8e77d9a7e91a1fa159e7513914b4ea365a5a34bdbb437c7ec0c83"
+        }
+      }
+    },
+    {
+      "number": 75,
+      "name": "PL3X Adventure Time Marathon",
+      "group": "PL3X Marathons",
+      "category": "MARATHONS",
+      "icon": "sword",
+      "formats": {
+        "guide": {
+          "file": "guide/75-0f85c453809a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/75-0f85c453809a.png",
+          "sha256": "0f85c453809afbf004c04a156ba806c227983568d313aa478a969a945c528691"
+        },
+        "wide": {
+          "file": "wide/75-59064611f57b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/75-59064611f57b.png",
+          "sha256": "59064611f57b48e3d9a2fcb7fecff9a4d3a003c674105bb3678e6e57e3cd60a9"
+        }
+      }
+    },
+    {
+      "number": 76,
+      "name": "PL3X The Office Marathon",
+      "group": "PL3X Marathons",
+      "category": "MARATHONS",
+      "icon": "briefcase-business",
+      "formats": {
+        "guide": {
+          "file": "guide/76-ce896f7494e9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/76-ce896f7494e9.png",
+          "sha256": "ce896f7494e98c04bde4d583f296bbc4d65ae9fcbe7f7f19b2372cb7a347b04b"
+        },
+        "wide": {
+          "file": "wide/76-0c0a51085fa7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/76-0c0a51085fa7.png",
+          "sha256": "0c0a51085fa7dbcd20762cebeede76ecc1455bca145541224f8164742c1f0893"
+        }
+      }
+    },
+    {
+      "number": 77,
+      "name": "PL3X Lupin the 3rd Marathon",
+      "group": "PL3X Marathons",
+      "category": "MARATHONS",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/77-b4bfa89b4919.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/77-b4bfa89b4919.png",
+          "sha256": "b4bfa89b4919ff972f59b60f63301f71d635ef334d2bb724e5f362a62ebbdaa6"
+        },
+        "wide": {
+          "file": "wide/77-25ac6203f452.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/77-25ac6203f452.png",
+          "sha256": "25ac6203f4522b83f9d9a8e20d849d3bd16c5f41caa141746f223103f8a5fec9"
+        }
+      }
+    },
+    {
+      "number": 78,
+      "name": "PL3X Brooklyn Nine-Nine Marathon",
+      "group": "PL3X Marathons",
+      "category": "MARATHONS",
+      "icon": "badge",
+      "formats": {
+        "guide": {
+          "file": "guide/78-1eceb3cd3fdb.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/78-1eceb3cd3fdb.png",
+          "sha256": "1eceb3cd3fdbc068813cc0630b1252a6ac82f29294770e8f9fbbafd6072ad368"
+        },
+        "wide": {
+          "file": "wide/78-851cbb9e3a48.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/78-851cbb9e3a48.png",
+          "sha256": "851cbb9e3a48032a8ce83041b10addc1abc99e3a024444e573545fb6f722e7a4"
+        }
+      }
+    },
+    {
+      "number": 79,
+      "name": "PL3X Beavis and Butt-Head Marathon",
+      "group": "PL3X Marathons",
+      "category": "MARATHONS",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/79-3b743246ea2a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/79-3b743246ea2a.png",
+          "sha256": "3b743246ea2a42b12ca8210892129fed3de8f6bae9fbc64ad7e2521829fe3e96"
+        },
+        "wide": {
+          "file": "wide/79-ae6f6e66fa69.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/79-ae6f6e66fa69.png",
+          "sha256": "ae6f6e66fa69bbc235b8ca3a80186bf2f26faa6392005de574ec9ca28b08996d"
+        }
+      }
+    },
+    {
+      "number": 80,
+      "name": "PL3X Star Wars Movie & Special Mix",
+      "group": "PL3X Film Collections",
+      "category": "COLLECTIONS",
+      "icon": "rocket",
+      "formats": {
+        "guide": {
+          "file": "guide/80-4627273fcd25.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/80-4627273fcd25.png",
+          "sha256": "4627273fcd258375ffdd71e9a38df5ac2a157d3f07601b3d6abdba30646dbd26"
+        },
+        "wide": {
+          "file": "wide/80-9e540b67bfee.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/80-9e540b67bfee.png",
+          "sha256": "9e540b67bfeec39c837ea760a469f1570e6b27749efa5c11a5287450382f07aa"
+        }
+      }
+    },
+    {
+      "number": 81,
+      "name": "PL3X Star Trek Movie Collection",
+      "group": "PL3X Film Collections",
+      "category": "COLLECTIONS",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/81-3a7788c8c29a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/81-3a7788c8c29a.png",
+          "sha256": "3a7788c8c29a6d534d15c63e5f1022c93bf4f7b84e661744b8bfe029dd88de52"
+        },
+        "wide": {
+          "file": "wide/81-ccf2ae8f8d79.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/81-ccf2ae8f8d79.png",
+          "sha256": "ccf2ae8f8d7939fe53c43337c4d8f8095a9acc938bb68e3be41a598bc4945c73"
+        }
+      }
+    },
+    {
+      "number": 82,
+      "name": "PL3X Marvel Movies",
+      "group": "PL3X Film Collections",
+      "category": "COLLECTIONS",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/82-29e8ae055594.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/82-29e8ae055594.png",
+          "sha256": "29e8ae055594dd682ac3e2cb454db00e4edfe007ee6b4b444e681c31a5d64228"
+        },
+        "wide": {
+          "file": "wide/82-ad54b0a8ffb4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/82-ad54b0a8ffb4.png",
+          "sha256": "ad54b0a8ffb4b1cdf422f9a8f60fe083bb8a7349aab0d8582b974139d3a2d07b"
+        }
+      }
+    },
+    {
+      "number": 83,
+      "name": "PL3X DC Superhero Movies",
+      "group": "PL3X Film Collections",
+      "category": "COLLECTIONS",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/83-a46fc9dccf7b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/83-a46fc9dccf7b.png",
+          "sha256": "a46fc9dccf7b82795e0a57e10f9e1583a2c8958ddba5bfff8d8f87ac146cb91c"
+        },
+        "wide": {
+          "file": "wide/83-abc66554ae22.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/83-abc66554ae22.png",
+          "sha256": "abc66554ae22e09634ed0d3e6046cfd19ed92d20ceb0732a27aa3ce17bbfb17d"
+        }
+      }
+    },
+    {
+      "number": 84,
+      "name": "PL3X Wizarding World Movies",
+      "group": "PL3X Film Collections",
+      "category": "COLLECTIONS",
+      "icon": "wand-sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/84-05eaf7f55a76.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/84-05eaf7f55a76.png",
+          "sha256": "05eaf7f55a76a6180e38c8248fbda5c4204d89daa98e7ed83608b7132f786720"
+        },
+        "wide": {
+          "file": "wide/84-fcf88c6a4292.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/84-fcf88c6a4292.png",
+          "sha256": "fcf88c6a4292c6d239dc5308f569caa7f5bb82a77b722ca9ffef3871de4898bb"
+        }
+      }
+    },
+    {
+      "number": 85,
+      "name": "PL3X Fantasy Cinema",
+      "group": "PL3X Film Collections",
+      "category": "COLLECTIONS",
+      "icon": "wand-sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/85-01be1d477761.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/85-01be1d477761.png",
+          "sha256": "01be1d477761d93894fb2b49e56d37ab5d4e459a1d7203677f80b6a57eef129c"
+        },
+        "wide": {
+          "file": "wide/85-b2816efed1ca.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/85-b2816efed1ca.png",
+          "sha256": "b2816efed1cafc95db493eb3e9a37997d7e1b8d192a4b67db1266e0620a38469"
+        }
+      }
+    },
+    {
+      "number": 86,
+      "name": "PL3X Jurassic Movies",
+      "group": "PL3X Film Collections",
+      "category": "COLLECTIONS",
+      "icon": "leaf",
+      "formats": {
+        "guide": {
+          "file": "guide/86-1b091436789f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/86-1b091436789f.png",
+          "sha256": "1b091436789f16f5c5d415e8911b1ee7104a483328455672e18933b0e2a919e7"
+        },
+        "wide": {
+          "file": "wide/86-38bb41db2608.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/86-38bb41db2608.png",
+          "sha256": "38bb41db2608b9abf73f03e02b05b2a8a433bd904a0ce847d99f672a23e74e5e"
+        }
+      }
+    },
+    {
+      "number": 87,
+      "name": "PL3X Alien & Predator Film Mix",
+      "group": "PL3X Film Collections",
+      "category": "COLLECTIONS",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/87-a1c961e7eb6f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/87-a1c961e7eb6f.png",
+          "sha256": "a1c961e7eb6f80ca5e4b399a8341a87185fbb429edc23f55d62a647353cf1cea"
+        },
+        "wide": {
+          "file": "wide/87-099fca9e6efa.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/87-099fca9e6efa.png",
+          "sha256": "099fca9e6efa174864db6c41edbfe52232edaad93c5bfc7b4df7576f73890b3d"
+        }
+      }
+    },
+    {
+      "number": 88,
+      "name": "PL3X Matrix Collection",
+      "group": "PL3X Film Collections",
+      "category": "COLLECTIONS",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/88-0f5664b4abef.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/88-0f5664b4abef.png",
+          "sha256": "0f5664b4abef49a524c551783f772b57cdcffdbf6dae4173cf582c6adec8d3cf"
+        },
+        "wide": {
+          "file": "wide/88-e73208c94c07.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/88-e73208c94c07.png",
+          "sha256": "e73208c94c078c3842b0ba4a746cd296a0579a6bfb899af9328ef171b3946767"
+        }
+      }
+    },
+    {
+      "number": 89,
+      "name": "PL3X Mission Impossible Movies",
+      "group": "PL3X Film Collections",
+      "category": "COLLECTIONS",
+      "icon": "badge",
+      "formats": {
+        "guide": {
+          "file": "guide/89-638450af973d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/89-638450af973d.png",
+          "sha256": "638450af973d863873b3501c69404c1de437cfe9b679faee2b2f6fcab0c4fd7d"
+        },
+        "wide": {
+          "file": "wide/89-9a919479bab8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/89-9a919479bab8.png",
+          "sha256": "9a919479bab8e55fb45664cba527587db6256a93d3e7ebe9921a0e59007bec8c"
+        }
+      }
+    },
+    {
+      "number": 90,
+      "name": "PL3X Background TV",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "compass",
+      "formats": {
+        "guide": {
+          "file": "guide/90-8e648052ff41.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/90-8e648052ff41.png",
+          "sha256": "8e648052ff413b3c309cc8597baa1ce5b6157ba7bc5b76e8108db7eddd3ec551"
+        },
+        "wide": {
+          "file": "wide/90-df6303ca6dab.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/90-df6303ca6dab.png",
+          "sha256": "df6303ca6dab152c2acf80128c131bdc83ed4be8138f778dd4b560c765604ed6"
+        }
+      }
+    },
+    {
+      "number": 91,
+      "name": "PL3X Quick Watch",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "timer",
+      "formats": {
+        "guide": {
+          "file": "guide/91-8c5dedd59446.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/91-8c5dedd59446.png",
+          "sha256": "8c5dedd59446c1e7aca1abb0f1489cad5fa69184206e4b5201fc479fd3b304cc"
+        },
+        "wide": {
+          "file": "wide/91-bd036d0f648f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/91-bd036d0f648f.png",
+          "sha256": "bd036d0f648f3a8d256b68073c3d997c38b1e3d139dfb3a02974b169ae9aee72"
+        }
+      }
+    },
+    {
+      "number": 92,
+      "name": "PL3X Movie Night",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "moon",
+      "formats": {
+        "guide": {
+          "file": "guide/92-c197439acb74.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/92-c197439acb74.png",
+          "sha256": "c197439acb74bbcd7640a6791613af475ce430077ac6a03923f9a792e7643a58"
+        },
+        "wide": {
+          "file": "wide/92-93d330ddd03b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/92-93d330ddd03b.png",
+          "sha256": "93d330ddd03b5da8c4b5fbd49d03ad294ad10d46ccdce37b7111ee15cad221fc"
+        }
+      }
+    },
+    {
+      "number": 93,
+      "name": "PL3X Binge Blocks",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/93-f79d3c41b6dc.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/93-f79d3c41b6dc.png",
+          "sha256": "f79d3c41b6dcc85e46606499f04a188c937b726797622bbe16789b0b241ab9fe"
+        },
+        "wide": {
+          "file": "wide/93-bea167208399.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/93-bea167208399.png",
+          "sha256": "bea167208399a442ff04243c4a87355cdbf50e75e03ac6b8e0d773c78edbd86f"
+        }
+      }
+    },
+    {
+      "number": 94,
+      "name": "PL3X After Work",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "briefcase-business",
+      "formats": {
+        "guide": {
+          "file": "guide/94-abf3e3f848bf.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/94-abf3e3f848bf.png",
+          "sha256": "abf3e3f848bfc5825988ff4688e4533f5df9b6781a73e24e5f40b65215d588bb"
+        },
+        "wide": {
+          "file": "wide/94-ed3df19ca9d4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/94-ed3df19ca9d4.png",
+          "sha256": "ed3df19ca9d46fd84e2b4505a040a56f09d224a49be8c19afdb141e277dcaacf"
+        }
+      }
+    },
+    {
+      "number": 95,
+      "name": "PL3X Late Night",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "moon",
+      "formats": {
+        "guide": {
+          "file": "guide/95-8575e4aa1c69.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/95-8575e4aa1c69.png",
+          "sha256": "8575e4aa1c694ebd2442579f406a0bb456c7abc219366b9c17e512ce5023b17b"
+        },
+        "wide": {
+          "file": "wide/95-179f6c3e3eec.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/95-179f6c3e3eec.png",
+          "sha256": "179f6c3e3eec82740b1d1afb66c50dafdf3f65f9bca32d5c535423e2224bc01b"
+        }
+      }
+    },
+    {
+      "number": 96,
+      "name": "PL3X Saturday Morning",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/96-b19e61f333b2.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/96-b19e61f333b2.png",
+          "sha256": "b19e61f333b23e51284b64f48922ab3378ac6280e2f6d00bec3fbdf999c72327"
+        },
+        "wide": {
+          "file": "wide/96-ddfb5db48899.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/96-ddfb5db48899.png",
+          "sha256": "ddfb5db4889997a53982ee35e501b23737641a3811ef35f6369f0c2560daf1ed"
+        }
+      }
+    },
+    {
+      "number": 97,
+      "name": "PL3X Weekend Movies",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "sun",
+      "formats": {
+        "guide": {
+          "file": "guide/97-602eb80cae40.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/97-602eb80cae40.png",
+          "sha256": "602eb80cae4020b2afe33620b375b7585bd098b694e50c59352912dc8fb3c392"
+        },
+        "wide": {
+          "file": "wide/97-53b958c5c19f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/97-53b958c5c19f.png",
+          "sha256": "53b958c5c19f04eadc1bca2273d32cecd4db45c6a480b69301aec0fec8225e07"
+        }
+      }
+    },
+    {
+      "number": 98,
+      "name": "PL3X Seasonal & Holidays",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "snowflake",
+      "formats": {
+        "guide": {
+          "file": "guide/98-f332f4e9937f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/98-f332f4e9937f.png",
+          "sha256": "f332f4e9937fe6c4874a87d3969c4b3b1bb26a7e2eb7034c4781acbb62e1a496"
+        },
+        "wide": {
+          "file": "wide/98-7b4b34415067.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/98-7b4b34415067.png",
+          "sha256": "7b4b34415067616d59abb2540e778d79020737831676f7b7fd1bf6e414f1ab86"
+        }
+      }
+    },
+    {
+      "number": 99,
+      "name": "PL3X Wild Card Roulette",
+      "group": "PL3X Discovery",
+      "category": "DISCOVERY",
+      "icon": "shuffle",
+      "formats": {
+        "guide": {
+          "file": "guide/99-4e2e90851a99.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/99-4e2e90851a99.png",
+          "sha256": "4e2e90851a99b514ac8cfbf014478ace779b59f33fc3506ee96b6bf9bff2a085"
+        },
+        "wide": {
+          "file": "wide/99-badcd06eb4e1.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/99-badcd06eb4e1.png",
+          "sha256": "badcd06eb4e1615ede4a8cb4c2be070e478428ed1c0903bca8532217dc5e6130"
+        }
+      }
+    },
+    {
+      "number": 102,
+      "name": "PL3X Movie Roulette",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "shuffle",
+      "formats": {
+        "guide": {
+          "file": "guide/102-73425ddc6fbe.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/102-73425ddc6fbe.png",
+          "sha256": "73425ddc6fbeb1f25afd1eee5670d3ec6764cb0c45a096f3eba2c3071df629d9"
+        },
+        "wide": {
+          "file": "wide/102-49513d475f7a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/102-49513d475f7a.png",
+          "sha256": "49513d475f7a3a352ed88c41700d79c2a98e78e5333bc9fc06a1798d20785424"
+        }
+      }
+    },
+    {
+      "number": 103,
+      "name": "PL3X Short Features",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "timer",
+      "formats": {
+        "guide": {
+          "file": "guide/103-dec712adb2d8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/103-dec712adb2d8.png",
+          "sha256": "dec712adb2d8aa664d35eb2c0193963c7922ad8022234c1c08727266cdbc24c5"
+        },
+        "wide": {
+          "file": "wide/103-bd3bc16befa3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/103-bd3bc16befa3.png",
+          "sha256": "bd3bc16befa3ea72fd4bd63eb9c3fd051efa85b6878c22d2752df10358aefd91"
+        }
+      }
+    },
+    {
+      "number": 104,
+      "name": "PL3X Epic Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/104-872a3984665c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/104-872a3984665c.png",
+          "sha256": "872a3984665c94a5b39ddf7e8d0d2704c4fa72cbbf74ca26e60707714d4f4a43"
+        },
+        "wide": {
+          "file": "wide/104-0aea6292d815.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/104-0aea6292d815.png",
+          "sha256": "0aea6292d8154ea912649bfb85a1dd6a430bd751cdc37b009fa23838a5ab2183"
+        }
+      }
+    },
+    {
+      "number": 105,
+      "name": "PL3X Recent Releases",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/105-40265bb38e94.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/105-40265bb38e94.png",
+          "sha256": "40265bb38e940e7551e329fb62b84167fa2834fe9f40026150f6a3f9b60e4ffb"
+        },
+        "wide": {
+          "file": "wide/105-194843531f61.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/105-194843531f61.png",
+          "sha256": "194843531f618baf599a46eb743080c9c694cb1e229d6e5eea9c1864c705ff44"
+        }
+      }
+    },
+    {
+      "number": 106,
+      "name": "PL3X Recently Imported",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/106-94e60762b61b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/106-94e60762b61b.png",
+          "sha256": "94e60762b61b9160890ec95be3a4dc73738ddc89492f33d6a48b7d9339a4cc21"
+        },
+        "wide": {
+          "file": "wide/106-c8071a338e24.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/106-c8071a338e24.png",
+          "sha256": "c8071a338e24e64f74314288a1ed71a560de678b08d500496d2e26c04d585cf4"
+        }
+      }
+    },
+    {
+      "number": 107,
+      "name": "PL3X Feature-Length Classics",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/107-492ba1794efa.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/107-492ba1794efa.png",
+          "sha256": "492ba1794efa7112193dfc6457c974afcd9ccdbd18dae850cad0cc3a2fec72fa"
+        },
+        "wide": {
+          "file": "wide/107-4897a86aed14.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/107-4897a86aed14.png",
+          "sha256": "4897a86aed1416f95f7c6a381b25d14074e6503708a1e1bbfb147e74b5e6ce16"
+        }
+      }
+    },
+    {
+      "number": 108,
+      "name": "PL3X Family Matinee",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/108-afe615b6c93c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/108-afe615b6c93c.png",
+          "sha256": "afe615b6c93c9654295b270100fa6e0d3140f5ad53f5ee1f09e7f77c2eb5879c"
+        },
+        "wide": {
+          "file": "wide/108-b89344b3c208.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/108-b89344b3c208.png",
+          "sha256": "b89344b3c20823421fc86aff843cd6dad949bb16d0240d25c2d6c54acaae38c3"
+        }
+      }
+    },
+    {
+      "number": 109,
+      "name": "PL3X PG-13 Night",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "moon",
+      "formats": {
+        "guide": {
+          "file": "guide/109-5ad7d7a654ae.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/109-5ad7d7a654ae.png",
+          "sha256": "5ad7d7a654ae1f50b39c3686c43fa57223b05e768970a9bf6b361fc26d6e8a01"
+        },
+        "wide": {
+          "file": "wide/109-ead201f13d18.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/109-ead201f13d18.png",
+          "sha256": "ead201f13d18bce8c8af0c55bd42693675800d22e5501c959d24602a7338d5be"
+        }
+      }
+    },
+    {
+      "number": 110,
+      "name": "PL3X R-Rated Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/110-026a710be4fd.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/110-026a710be4fd.png",
+          "sha256": "026a710be4fd276af7ee5f837537de7c76065f62061699438c1a2ff8f0daa7b4"
+        },
+        "wide": {
+          "file": "wide/110-fd342ae54655.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/110-fd342ae54655.png",
+          "sha256": "fd342ae54655a6974afeabe797c1694716219c284423182a6abd3a483a9a4645"
+        }
+      }
+    },
+    {
+      "number": 111,
+      "name": "PL3X Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/111-7301163c2450.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/111-7301163c2450.png",
+          "sha256": "7301163c2450956f9aea3ac4a48ce5cbbed6b3e289649105aaccd5d67004266b"
+        },
+        "wide": {
+          "file": "wide/111-bf6625756524.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/111-bf6625756524.png",
+          "sha256": "bf66257565248e4c59486432006a98275f7e7bcb626f7500cefa3f2621a38c17"
+        }
+      }
+    },
+    {
+      "number": 112,
+      "name": "PL3X Acclaimed Action Movies",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/112-5088dfadfa1a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/112-5088dfadfa1a.png",
+          "sha256": "5088dfadfa1a4176b9125fd423e4e1ec696a839af23970bf34c655d4d3cdf185"
+        },
+        "wide": {
+          "file": "wide/112-872d5d23e6ea.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/112-872d5d23e6ea.png",
+          "sha256": "872d5d23e6ea6a870abffccedde3eed79759f3cd1c31f971ef58c0ba762e1101"
+        }
+      }
+    },
+    {
+      "number": 113,
+      "name": "PL3X Movies in SDR",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/113-57f60bd1c198.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/113-57f60bd1c198.png",
+          "sha256": "57f60bd1c1983ee7fd4c5be2bce6f42baaf3a170a8dd5156920813c387b5525a"
+        },
+        "wide": {
+          "file": "wide/113-7725cb2001d7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/113-7725cb2001d7.png",
+          "sha256": "7725cb2001d756575763921c3b60b5452eca5c901ca9b2bbfa687ed9aa33f069"
+        }
+      }
+    },
+    {
+      "number": 114,
+      "name": "PL3X Foreign Language Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "globe",
+      "formats": {
+        "guide": {
+          "file": "guide/114-4f6a6682cc3a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/114-4f6a6682cc3a.png",
+          "sha256": "4f6a6682cc3ab2f2517daa42e2ad38ee2ab9cd686f8a67892b15fcdc6beec291"
+        },
+        "wide": {
+          "file": "wide/114-5c632e536948.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/114-5c632e536948.png",
+          "sha256": "5c632e536948176e30d316b7f2ee0cb1e135c24db838741fe5b29b985881a494"
+        }
+      }
+    },
+    {
+      "number": 115,
+      "name": "PL3X Movies with Subtitles",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "book-open",
+      "formats": {
+        "guide": {
+          "file": "guide/115-5be29271899c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/115-5be29271899c.png",
+          "sha256": "5be29271899cda9c99d8e9ad5cc53b632c454375b755d99ce322eba3b856939e"
+        },
+        "wide": {
+          "file": "wide/115-3ca1923ec48c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/115-3ca1923ec48c.png",
+          "sha256": "3ca1923ec48c72158c17a94052f3fa6c47a67605279964e479f6d19a5a49baf2"
+        }
+      }
+    },
+    {
+      "number": 120,
+      "name": "PL3X Action Movies",
+      "group": "PL3X Action Movies",
+      "category": "MOVIES",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/120-b8cf216a5df9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/120-b8cf216a5df9.png",
+          "sha256": "b8cf216a5df9b6d6a6f19c5c6a50b9cccc626453fbbec99ba04dc2bd67f443a3"
+        },
+        "wide": {
+          "file": "wide/120-3124801cf01f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/120-3124801cf01f.png",
+          "sha256": "3124801cf01fc0a8f065763e1352ffd82560e25fe94315eba08e6f362b72109f"
+        }
+      }
+    },
+    {
+      "number": 121,
+      "name": "PL3X Adventure Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/121-8ec9199dba19.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/121-8ec9199dba19.png",
+          "sha256": "8ec9199dba192b888dfc70e17dd84a87ac0fe51d284dc4cbc1f08afed5a75bda"
+        },
+        "wide": {
+          "file": "wide/121-d79cca79fd2e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/121-d79cca79fd2e.png",
+          "sha256": "d79cca79fd2e2d9b9cbead018f2ebc9b0016017bcf634a4bc2c399b64432c6d5"
+        }
+      }
+    },
+    {
+      "number": 122,
+      "name": "PL3X Comedy Club",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/122-1dab9482e0a5.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/122-1dab9482e0a5.png",
+          "sha256": "1dab9482e0a5a0f8532f356b55fab4364ca7ae9511a086bd2372890ad8af4002"
+        },
+        "wide": {
+          "file": "wide/122-4a2ae813f744.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/122-4a2ae813f744.png",
+          "sha256": "4a2ae813f74468366a1678088d8f492e6745dc0627b7d4ab2cf0184ab28e7b0c"
+        }
+      }
+    },
+    {
+      "number": 123,
+      "name": "PL3X Sci-Fi Station",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/123-96518b20b78f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/123-96518b20b78f.png",
+          "sha256": "96518b20b78f9cbf73b036943dff8d6967f0e114d821255bd716ec7cf8a361fa"
+        },
+        "wide": {
+          "file": "wide/123-138504be60c3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/123-138504be60c3.png",
+          "sha256": "138504be60c3ce3d972d666d095fb2dc1cc5599008b66f9b6bf2cfe518bfc48d"
+        }
+      }
+    },
+    {
+      "number": 124,
+      "name": "PL3X Horror Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/124-4ebb2511b74b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/124-4ebb2511b74b.png",
+          "sha256": "4ebb2511b74b74421cd68cc5905785910fbf59302124e3c0367c1548ddb0f46a"
+        },
+        "wide": {
+          "file": "wide/124-ab905d9021b4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/124-ab905d9021b4.png",
+          "sha256": "ab905d9021b406f2cd669100b1dc0459bbceb9a8cc714d9c5bcdda77cb630e99"
+        }
+      }
+    },
+    {
+      "number": 125,
+      "name": "PL3X Thriller Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/125-72fbd0ca38a4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/125-72fbd0ca38a4.png",
+          "sha256": "72fbd0ca38a4d459cac25092b1e32b6fd47e85786800a6f051082718ecf85cd7"
+        },
+        "wide": {
+          "file": "wide/125-58f529e1b5b0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/125-58f529e1b5b0.png",
+          "sha256": "58f529e1b5b020c7c66f79713d06857c0bfd7b49d0558232cf31855e592aa2a3"
+        }
+      }
+    },
+    {
+      "number": 126,
+      "name": "PL3X Drama Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "book-open",
+      "formats": {
+        "guide": {
+          "file": "guide/126-c643de4d9de0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/126-c643de4d9de0.png",
+          "sha256": "c643de4d9de01f585f0e311e5d7738e9c401992cfe7366042ed0b9da25f8607d"
+        },
+        "wide": {
+          "file": "wide/126-82296ca89c3b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/126-82296ca89c3b.png",
+          "sha256": "82296ca89c3bfce3ac3de02f1a9d0c750e680744a323ed5233bd51831b7978e3"
+        }
+      }
+    },
+    {
+      "number": 127,
+      "name": "PL3X Mystery Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/127-a553e1df91f2.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/127-a553e1df91f2.png",
+          "sha256": "a553e1df91f2b6cc4243ce5d76fb8e9b78ea93f1af62cf069ab7799284e2cf6f"
+        },
+        "wide": {
+          "file": "wide/127-7d47305a72da.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/127-7d47305a72da.png",
+          "sha256": "7d47305a72da86923f2a4dd9398356a307379362fdad7e534ea66a317bb27207"
+        }
+      }
+    },
+    {
+      "number": 128,
+      "name": "PL3X Animation Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/128-c4cba494fefc.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/128-c4cba494fefc.png",
+          "sha256": "c4cba494fefc34742f43fff9eb3b8b9a8c57e536ff6b76ce28338a599c14fc83"
+        },
+        "wide": {
+          "file": "wide/128-e093a90997cd.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/128-e093a90997cd.png",
+          "sha256": "e093a90997cd33296eb209fe4ca432db81cff32d3048a4abdf9da8a802eabf20"
+        }
+      }
+    },
+    {
+      "number": 129,
+      "name": "PL3X Family Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/129-e6b710503f4b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/129-e6b710503f4b.png",
+          "sha256": "e6b710503f4bfb0376693d09f10c1e53256d081d07422fc536efe25f34472406"
+        },
+        "wide": {
+          "file": "wide/129-2ff6ba4fe088.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/129-2ff6ba4fe088.png",
+          "sha256": "2ff6ba4fe0886a287ccfddc36bba36be0ce683faa56cb1147cf82f7571e5bd3d"
+        }
+      }
+    },
+    {
+      "number": 130,
+      "name": "PL3X Documentary Channel",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "binoculars",
+      "formats": {
+        "guide": {
+          "file": "guide/130-5bd9b2ac0da0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/130-5bd9b2ac0da0.png",
+          "sha256": "5bd9b2ac0da043e3580744d25c4e74998a6adc33a9aabdc52642ad32bb219cfe"
+        },
+        "wide": {
+          "file": "wide/130-3ae4b6a4c122.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/130-3ae4b6a4c122.png",
+          "sha256": "3ae4b6a4c12276eb3999a744b5741b7517437bbe4b716a63336d702ffa7e68ca"
+        }
+      }
+    },
+    {
+      "number": 131,
+      "name": "PL3X Fantasy Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "wand-sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/131-d0f8242c7043.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/131-d0f8242c7043.png",
+          "sha256": "d0f8242c7043b15baf252162eeb0d099167e0845e6e427f2e5be88c1fcfb5993"
+        },
+        "wide": {
+          "file": "wide/131-2beb2e8f68f2.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/131-2beb2e8f68f2.png",
+          "sha256": "2beb2e8f68f26e91e9f15d30e9532fad9ca139f27c35605360156f7b32240b96"
+        }
+      }
+    },
+    {
+      "number": 132,
+      "name": "PL3X Crime Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "badge",
+      "formats": {
+        "guide": {
+          "file": "guide/132-3ca7f5f7426e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/132-3ca7f5f7426e.png",
+          "sha256": "3ca7f5f7426e4b18192037c5f5e673377619155b6863d4beed56bbd427ac7221"
+        },
+        "wide": {
+          "file": "wide/132-4f5454972ec3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/132-4f5454972ec3.png",
+          "sha256": "4f5454972ec3981f5ed6a2938c7233972ad0fbc4b54c55b1ccd367c66c274946"
+        }
+      }
+    },
+    {
+      "number": 133,
+      "name": "PL3X Romance Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "heart",
+      "formats": {
+        "guide": {
+          "file": "guide/133-d89454393280.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/133-d89454393280.png",
+          "sha256": "d8945439328015bae2f7d913cbf055a2fc76b6b8952bbd61fd3a91537765e625"
+        },
+        "wide": {
+          "file": "wide/133-9016be0252af.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/133-9016be0252af.png",
+          "sha256": "9016be0252afca2c56cacc5c1386d1aea064d8d10555359194a5551da5ced924"
+        }
+      }
+    },
+    {
+      "number": 134,
+      "name": "PL3X War Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "swords",
+      "formats": {
+        "guide": {
+          "file": "guide/134-b77792e9c930.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/134-b77792e9c930.png",
+          "sha256": "b77792e9c93035afaecde095eebdc86093785494a7233f09a2ab5531c9e08803"
+        },
+        "wide": {
+          "file": "wide/134-8b0f50d3719e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/134-8b0f50d3719e.png",
+          "sha256": "8b0f50d3719e12487b667466eeefb174a1bcf6d05964a491106b717b57e324a2"
+        }
+      }
+    },
+    {
+      "number": 135,
+      "name": "PL3X Western Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "sunset",
+      "formats": {
+        "guide": {
+          "file": "guide/135-02ecc8540d7b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/135-02ecc8540d7b.png",
+          "sha256": "02ecc8540d7b9f85948570149e32a0946faeca6b6929100fbf065bad3fd63fb1"
+        },
+        "wide": {
+          "file": "wide/135-48d32f8e95c8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/135-48d32f8e95c8.png",
+          "sha256": "48d32f8e95c80df05c7a474ddef711ab297f8467a002871a46bcb9906895e713"
+        }
+      }
+    },
+    {
+      "number": 136,
+      "name": "PL3X Music Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "audio-lines",
+      "formats": {
+        "guide": {
+          "file": "guide/136-3719c256e913.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/136-3719c256e913.png",
+          "sha256": "3719c256e9133ee6130910dca03a17d34114c29da7a391b709859698e3aaacfb"
+        },
+        "wide": {
+          "file": "wide/136-1d2b7fa501ad.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/136-1d2b7fa501ad.png",
+          "sha256": "1d2b7fa501ad56b25218a8e486beb6775b2862aa5a776cd2c1227b56ea2ba9fe"
+        }
+      }
+    },
+    {
+      "number": 137,
+      "name": "PL3X History Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "landmark",
+      "formats": {
+        "guide": {
+          "file": "guide/137-cc09cf3743e3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/137-cc09cf3743e3.png",
+          "sha256": "cc09cf3743e3e9da8b0a5f75c478b7c7b054ad0e26c3f0f208855878b39f7a7d"
+        },
+        "wide": {
+          "file": "wide/137-565e198b3056.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/137-565e198b3056.png",
+          "sha256": "565e198b305624ce051abfc6f0ba1a1e21efe0a6f5b56e8b79afba9b841f8dd0"
+        }
+      }
+    },
+    {
+      "number": 138,
+      "name": "PL3X Biography Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "book-open",
+      "formats": {
+        "guide": {
+          "file": "guide/138-ae41ad0b0dd4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/138-ae41ad0b0dd4.png",
+          "sha256": "ae41ad0b0dd4b3c081e86fc54b42de20d8ca551d3532dbd244b1e8be23422d66"
+        },
+        "wide": {
+          "file": "wide/138-00cbbb76c8f8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/138-00cbbb76c8f8.png",
+          "sha256": "00cbbb76c8f80bee9fd336dce500edc6039883aee0ae1dcfc8378b119c67724a"
+        }
+      }
+    },
+    {
+      "number": 139,
+      "name": "PL3X Sport Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "trophy",
+      "formats": {
+        "guide": {
+          "file": "guide/139-1aed3d740b6e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/139-1aed3d740b6e.png",
+          "sha256": "1aed3d740b6eb6ce24341cc8456226a1c2dc40ab916aa2b35da65b25dff977dc"
+        },
+        "wide": {
+          "file": "wide/139-059139952039.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/139-059139952039.png",
+          "sha256": "05913995203914c7928fb7a5f48879e231435ccaae3ba8f5a5d0e604ee6e0ea7"
+        }
+      }
+    },
+    {
+      "number": 140,
+      "name": "PL3X Movie Musicals",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "audio-lines",
+      "formats": {
+        "guide": {
+          "file": "guide/140-9c740d8191a7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/140-9c740d8191a7.png",
+          "sha256": "9c740d8191a7564daa07d6772578e91fe4cc7daef601f07fab8d4946db5bc94a"
+        },
+        "wide": {
+          "file": "wide/140-dbec2456e52e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/140-dbec2456e52e.png",
+          "sha256": "dbec2456e52e1943a32006e4cb2a8f6b7676070257249d3a8f52813a16f155c3"
+        }
+      }
+    },
+    {
+      "number": 141,
+      "name": "PL3X Crime Cinema",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "badge",
+      "formats": {
+        "guide": {
+          "file": "guide/141-93cbf66bbb30.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/141-93cbf66bbb30.png",
+          "sha256": "93cbf66bbb3004eecf53ed39b1e779dee0d899b8fc2a66b313c69482271722c5"
+        },
+        "wide": {
+          "file": "wide/141-4b76ca23b54b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/141-4b76ca23b54b.png",
+          "sha256": "4b76ca23b54babd183f7078542fb1657226254573f704e404da0ac857e099c96"
+        }
+      }
+    },
+    {
+      "number": 142,
+      "name": "PL3X Short Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "timer",
+      "formats": {
+        "guide": {
+          "file": "guide/142-09656123a7a8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/142-09656123a7a8.png",
+          "sha256": "09656123a7a87dd3a7bb8503464733420956874bcf2f828612f8890c28a3a028"
+        },
+        "wide": {
+          "file": "wide/142-4a8128f70309.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/142-4a8128f70309.png",
+          "sha256": "4a8128f70309f3e7afc0c5e4fbb04f5d62fcf8737dce19f50109d6b71511cfc7"
+        }
+      }
+    },
+    {
+      "number": 143,
+      "name": "PL3X Biography Cinema",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "book-open",
+      "formats": {
+        "guide": {
+          "file": "guide/143-710753195f05.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/143-710753195f05.png",
+          "sha256": "710753195f05b907ad09ac2117cb2255f02fdd128cb41ae8b121cd9f3214b66f"
+        },
+        "wide": {
+          "file": "wide/143-7cda9502b422.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/143-7cda9502b422.png",
+          "sha256": "7cda9502b42272841df378591b0daee889b1142a45f20f5004be9e50ab09587f"
+        }
+      }
+    },
+    {
+      "number": 144,
+      "name": "PL3X Sci-Fi Action",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/144-ab6d15e948bf.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/144-ab6d15e948bf.png",
+          "sha256": "ab6d15e948bfe33bd1fbd6a67339333a53890a4789bf67e2a46187478f9eefca"
+        },
+        "wide": {
+          "file": "wide/144-e8ae77c158ee.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/144-e8ae77c158ee.png",
+          "sha256": "e8ae77c158ee22b30afb2f022d3f27c926e05ae21e2d3988770fbe6812ba40fd"
+        }
+      }
+    },
+    {
+      "number": 145,
+      "name": "PL3X Romantic Comedy",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/145-f8e0ffea776f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/145-f8e0ffea776f.png",
+          "sha256": "f8e0ffea776fe0db507a2eb9735a79cd3ebd22d32f0fe953a9f2aba6b906fcee"
+        },
+        "wide": {
+          "file": "wide/145-c3b374ab1ba4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/145-c3b374ab1ba4.png",
+          "sha256": "c3b374ab1ba4d5c302fc7a87e016fe3389468411322b6bf63f4c659ffd4304e6"
+        }
+      }
+    },
+    {
+      "number": 146,
+      "name": "PL3X Action Comedy",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/146-697be0f1b54a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/146-697be0f1b54a.png",
+          "sha256": "697be0f1b54aad833aeff64e41b0cb9f1417308572ab5f02f8d1fabd04d26728"
+        },
+        "wide": {
+          "file": "wide/146-8af7b240dac4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/146-8af7b240dac4.png",
+          "sha256": "8af7b240dac48c477ee94cfec1174558c70684f3983cc2482223cff98c647d39"
+        }
+      }
+    },
+    {
+      "number": 147,
+      "name": "PL3X Crime Thriller",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/147-05ea9e2a0de7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/147-05ea9e2a0de7.png",
+          "sha256": "05ea9e2a0de7b521f6ca8d1c8f10e5cbccd0bf5b0e7863356c59fc0582a1b000"
+        },
+        "wide": {
+          "file": "wide/147-40ae78b637e6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/147-40ae78b637e6.png",
+          "sha256": "40ae78b637e67acc57afe3edbb367ce02a18a91b7d2708be3d2c54c415eab87e"
+        }
+      }
+    },
+    {
+      "number": 160,
+      "name": "PL3X 1930s Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/160-7ead08d85883.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/160-7ead08d85883.png",
+          "sha256": "7ead08d85883398db7ab2c148a00cac56144483019c9ee6a99b8aecbcfa1cca2"
+        },
+        "wide": {
+          "file": "wide/160-d61b9c3c6336.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/160-d61b9c3c6336.png",
+          "sha256": "d61b9c3c6336626b795ce0e7a7e2472f46fc1b646abff394acb40c8f9f9925e6"
+        }
+      }
+    },
+    {
+      "number": 161,
+      "name": "PL3X 1940s Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/161-86bfc66f7a2c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/161-86bfc66f7a2c.png",
+          "sha256": "86bfc66f7a2ca7e0407d84a77682ff729214e54d84bec86984d5c74358e7f0a9"
+        },
+        "wide": {
+          "file": "wide/161-4ccfa542e82e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/161-4ccfa542e82e.png",
+          "sha256": "4ccfa542e82e63009d12f01b1e53516eb38757f923dd4eef1554103025d8f495"
+        }
+      }
+    },
+    {
+      "number": 162,
+      "name": "PL3X 1950s Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/162-0cb7204de23b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/162-0cb7204de23b.png",
+          "sha256": "0cb7204de23be5f7e081ff167d53c9f4e5750b63874836344720ab5f8f175887"
+        },
+        "wide": {
+          "file": "wide/162-9ab92f8eacd6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/162-9ab92f8eacd6.png",
+          "sha256": "9ab92f8eacd6e53ab551e59d725121c2888cd54811cf45040ee6a7aebe82437b"
+        }
+      }
+    },
+    {
+      "number": 163,
+      "name": "PL3X 1960s Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/163-7fbffdebd67b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/163-7fbffdebd67b.png",
+          "sha256": "7fbffdebd67b30932878a584bd47f31cec79c6db102d6c12b5a93d419f81e5a7"
+        },
+        "wide": {
+          "file": "wide/163-3473564280e4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/163-3473564280e4.png",
+          "sha256": "3473564280e4b43e860f0de710d86de1ffdfc9d517b4e35ae78db9d8c4b3e937"
+        }
+      }
+    },
+    {
+      "number": 164,
+      "name": "PL3X 1970s Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/164-7d7694309894.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/164-7d7694309894.png",
+          "sha256": "7d769430989491d03e68927deaca48ea79e6ef53c95e06891490a7916d2d08c3"
+        },
+        "wide": {
+          "file": "wide/164-773c0e1f06a3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/164-773c0e1f06a3.png",
+          "sha256": "773c0e1f06a3e0a7ab020624419b412e2cb82559bba7eb32a6681501e4f67b71"
+        }
+      }
+    },
+    {
+      "number": 165,
+      "name": "PL3X 1980s Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/165-0f6da6c9b45d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/165-0f6da6c9b45d.png",
+          "sha256": "0f6da6c9b45de4a70be0a21cb398190d1ed9c234427b909f15937814fcc3388c"
+        },
+        "wide": {
+          "file": "wide/165-c7999c6e9429.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/165-c7999c6e9429.png",
+          "sha256": "c7999c6e9429c73ce32757d610ed11e6703363823ad2c9feb6f99ac86e05bffd"
+        }
+      }
+    },
+    {
+      "number": 166,
+      "name": "PL3X 1990s Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/166-10cf4253fa59.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/166-10cf4253fa59.png",
+          "sha256": "10cf4253fa59148fc707ff57556bc68870ad9899f0d404318788a4bfbf71d7cb"
+        },
+        "wide": {
+          "file": "wide/166-cbe4e4ad12b5.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/166-cbe4e4ad12b5.png",
+          "sha256": "cbe4e4ad12b55f0cbc322bd8125fc634a8d0b605d02d0dd6c53ccf3e16ce4989"
+        }
+      }
+    },
+    {
+      "number": 167,
+      "name": "PL3X 2000s Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/167-e8db4828f398.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/167-e8db4828f398.png",
+          "sha256": "e8db4828f398a63189c6ad58972f40c1041746e835dbb6154bbacefc3cf4e2b7"
+        },
+        "wide": {
+          "file": "wide/167-69638cb6ea4d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/167-69638cb6ea4d.png",
+          "sha256": "69638cb6ea4dc4ef251cf79602726fc9752c99594ae9a5240f5302d68385b927"
+        }
+      }
+    },
+    {
+      "number": 168,
+      "name": "PL3X 2010s Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/168-768bc137ec59.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/168-768bc137ec59.png",
+          "sha256": "768bc137ec5961a7f8bb4aec9f85842808845e2d22b8bba5fb934667c354103b"
+        },
+        "wide": {
+          "file": "wide/168-af02a8853de7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/168-af02a8853de7.png",
+          "sha256": "af02a8853de78a5573dc75557e713b02c6c05ef58770f68136de1d66055387f0"
+        }
+      }
+    },
+    {
+      "number": 169,
+      "name": "PL3X 2020s Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/169-77a37661cf98.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/169-77a37661cf98.png",
+          "sha256": "77a37661cf98db408373ac679b06c54c7c57d20faddf0a6d3664f61032d23032"
+        },
+        "wide": {
+          "file": "wide/169-103cf1c1ecd0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/169-103cf1c1ecd0.png",
+          "sha256": "103cf1c1ecd036a74054963329e44562385ccf2d526269ff1400bd2e82386e6d"
+        }
+      }
+    },
+    {
+      "number": 170,
+      "name": "PL3X Golden Age Hollywood",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/170-dc3f9ef553d6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/170-dc3f9ef553d6.png",
+          "sha256": "dc3f9ef553d6f78ef636b2ff16e99e708610b88065d132e7f701428e56134220"
+        },
+        "wide": {
+          "file": "wide/170-0b58db1f2e80.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/170-0b58db1f2e80.png",
+          "sha256": "0b58db1f2e8090b0bbdf57a40e154fe4e07ae7c99bf996b4720ab0feef755bba"
+        }
+      }
+    },
+    {
+      "number": 171,
+      "name": "PL3X Millennium Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/171-4a35e3fa20c3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/171-4a35e3fa20c3.png",
+          "sha256": "4a35e3fa20c366e5088260a988ecb7066b32006e272c501287b20a01023d8336"
+        },
+        "wide": {
+          "file": "wide/171-8485d8efebce.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/171-8485d8efebce.png",
+          "sha256": "8485d8efebcefd35c5193b3e83be859946c3a9017a23a07cc084c9cff0aa201a"
+        }
+      }
+    },
+    {
+      "number": 172,
+      "name": "PL3X 80s Action",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/172-70d4e5a4f7a8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/172-70d4e5a4f7a8.png",
+          "sha256": "70d4e5a4f7a825903196d3c12ea211d47cc221e6795166aa9e947b1e447cc5d7"
+        },
+        "wide": {
+          "file": "wide/172-499b9b815303.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/172-499b9b815303.png",
+          "sha256": "499b9b815303019ae02a8955ee8e84778862383f503f782ceb1624a5b19e6273"
+        }
+      }
+    },
+    {
+      "number": 173,
+      "name": "PL3X 90s Comedy",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/173-9523efbea987.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/173-9523efbea987.png",
+          "sha256": "9523efbea987c3677e8db290639773dfd682e62636bfc9e3d9a544d411747f33"
+        },
+        "wide": {
+          "file": "wide/173-260e76b28a2c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/173-260e76b28a2c.png",
+          "sha256": "260e76b28a2c00a45bf1d961c4a948578b8b0a1087a833766adf4b44e284ac0e"
+        }
+      }
+    },
+    {
+      "number": 174,
+      "name": "PL3X 70s Sci-Fi",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/174-6b5f36fc1e9e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/174-6b5f36fc1e9e.png",
+          "sha256": "6b5f36fc1e9e1ff4dcfb5330eb6ebbc981c2ec0a6aca9285c0ee522217e11d53"
+        },
+        "wide": {
+          "file": "wide/174-b77beb86b727.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/174-b77beb86b727.png",
+          "sha256": "b77beb86b727d0f106c32895a440363f85bdeae1fe46b133414e6eb17f6fa1e9"
+        }
+      }
+    },
+    {
+      "number": 180,
+      "name": "PL3X Space Stories",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/180-2adb047ce229.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/180-2adb047ce229.png",
+          "sha256": "2adb047ce2291da447def92584a6080907ec373ec80c24b1fb95149e3ef944f1"
+        },
+        "wide": {
+          "file": "wide/180-66c674f9f500.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/180-66c674f9f500.png",
+          "sha256": "66c674f9f5005d41a9424bb9b8b1c191786d1ce2ae021e2e7ec439fcf92bf67d"
+        }
+      }
+    },
+    {
+      "number": 181,
+      "name": "PL3X Time Travel",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/181-efb939eda45a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/181-efb939eda45a.png",
+          "sha256": "efb939eda45adeb982e3e4fc70d845b5cd432cd42dece58807b1405317730cd0"
+        },
+        "wide": {
+          "file": "wide/181-78eb88d28be8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/181-78eb88d28be8.png",
+          "sha256": "78eb88d28be849fdea956e2471ed1dbe6c8bd1a9d1f5beb42668ceb96ab33f8b"
+        }
+      }
+    },
+    {
+      "number": 182,
+      "name": "PL3X Creature Features",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/182-0c22fb1fb7f2.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/182-0c22fb1fb7f2.png",
+          "sha256": "0c22fb1fb7f22af7d883e74bf70b9c8e03cded4986e9334a2d4b318dddc460c1"
+        },
+        "wide": {
+          "file": "wide/182-b3f4a3f4c9d4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/182-b3f4a3f4c9d4.png",
+          "sha256": "b3f4a3f4c9d4c7a160452d514941d094dbd92e8733d2a36c823e6452ce55d015"
+        }
+      }
+    },
+    {
+      "number": 183,
+      "name": "PL3X Apocalypse Cinema",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "film",
+      "formats": {
+        "guide": {
+          "file": "guide/183-3b4dc54aa1c4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/183-3b4dc54aa1c4.png",
+          "sha256": "3b4dc54aa1c47676372d728d950697edb994548197bd62bd5aa2b586877e4180"
+        },
+        "wide": {
+          "file": "wide/183-b19ea824d8a6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/183-b19ea824d8a6.png",
+          "sha256": "b19ea824d8a61ed19bc69fee4a1a388ec1f4f9d78d688a832f8a72502a9cc35e"
+        }
+      }
+    },
+    {
+      "number": 184,
+      "name": "PL3X Detective Stories",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/184-c7a0d5dcba6c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/184-c7a0d5dcba6c.png",
+          "sha256": "c7a0d5dcba6c6622ff4bd95e9e929fec6746a8c8804471c2670e5efa0addc246"
+        },
+        "wide": {
+          "file": "wide/184-9c12fef2088e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/184-9c12fef2088e.png",
+          "sha256": "9c12fef2088ef61facf3e932b69c75611f6ce19dccced4bf7b7262466aa4db52"
+        }
+      }
+    },
+    {
+      "number": 185,
+      "name": "PL3X Heist Films",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "badge",
+      "formats": {
+        "guide": {
+          "file": "guide/185-1d6125b10eb9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/185-1d6125b10eb9.png",
+          "sha256": "1d6125b10eb9b6a483e9d55cf1beddb052bdd62ccbe0c8f93d19b9c12fb5dae7"
+        },
+        "wide": {
+          "file": "wide/185-3741d0bf0c47.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/185-3741d0bf0c47.png",
+          "sha256": "3741d0bf0c4766db94c6772612c45e15bccea953f3da08ef3345e09242bfe228"
+        }
+      }
+    },
+    {
+      "number": 186,
+      "name": "PL3X Military Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "swords",
+      "formats": {
+        "guide": {
+          "file": "guide/186-0f834aca44ca.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/186-0f834aca44ca.png",
+          "sha256": "0f834aca44cabfd2029430e29482e5221359c8711a7d7492f6c5fa95011e1775"
+        },
+        "wide": {
+          "file": "wide/186-a13ba559dba8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/186-a13ba559dba8.png",
+          "sha256": "a13ba559dba85e4b7d362bb7b1a3e6020efc3336ea98691e832f50e38029304d"
+        }
+      }
+    },
+    {
+      "number": 187,
+      "name": "PL3X Sports Movies",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "trophy",
+      "formats": {
+        "guide": {
+          "file": "guide/187-54be31195a74.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/187-54be31195a74.png",
+          "sha256": "54be31195a74eb67d556d4224eae68a404723c4f993fd16c4f5a6d412ef8a61c"
+        },
+        "wide": {
+          "file": "wide/187-e01666c46bf1.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/187-e01666c46bf1.png",
+          "sha256": "e01666c46bf182dbc6a05d0e52368a8b54b6e20ef0de0259c4c513193c98b53f"
+        }
+      }
+    },
+    {
+      "number": 188,
+      "name": "PL3X Holiday Romance",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "heart",
+      "formats": {
+        "guide": {
+          "file": "guide/188-8f1de04428e6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/188-8f1de04428e6.png",
+          "sha256": "8f1de04428e6bd0bef92e352626152a3f40e9fabafe90a68d22ded25c4ce7c90"
+        },
+        "wide": {
+          "file": "wide/188-a6c43ccd7c24.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/188-a6c43ccd7c24.png",
+          "sha256": "a6c43ccd7c246005b3893534b9a1de2b43563be1414237fba701f138ceac5728"
+        }
+      }
+    },
+    {
+      "number": 189,
+      "name": "PL3X Animated Family",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/189-610a3319f1c6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/189-610a3319f1c6.png",
+          "sha256": "610a3319f1c6125ff816b235ced3e975ec923776e4b8ee5e30fd7156caa54568"
+        },
+        "wide": {
+          "file": "wide/189-fc23867c23b5.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/189-fc23867c23b5.png",
+          "sha256": "fc23867c23b57d7aa06d3c9a120748b457e1bfb2424ee89733d5acc2446f3f1e"
+        }
+      }
+    },
+    {
+      "number": 190,
+      "name": "PL3X Adventure TV Spotlight",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/190-b3109d465265.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/190-b3109d465265.png",
+          "sha256": "b3109d46526580cc2583f6e4d2bec5241fd6f2b5f035f006d15798252e51f617"
+        },
+        "wide": {
+          "file": "wide/190-d7bd42f476df.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/190-d7bd42f476df.png",
+          "sha256": "d7bd42f476df122b84c558cf0711c1ce3ae3ed949d7c5d89453c49f70766ad51"
+        }
+      }
+    },
+    {
+      "number": 191,
+      "name": "PL3X Concert Films",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "audio-lines",
+      "formats": {
+        "guide": {
+          "file": "guide/191-5c4bdda800c4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/191-5c4bdda800c4.png",
+          "sha256": "5c4bdda800c435b892c5a3177f1acb493c43342f7cdfca861fb72f04399f65b7"
+        },
+        "wide": {
+          "file": "wide/191-f93b206333ce.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/191-f93b206333ce.png",
+          "sha256": "f93b206333ceaaa665282671aa38c35f7e66dcc9f70ad47d5672fe4ea32f0d56"
+        }
+      }
+    },
+    {
+      "number": 192,
+      "name": "PL3X Sci-Fi TV Spotlight",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/192-744d8e3d6277.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/192-744d8e3d6277.png",
+          "sha256": "744d8e3d62772c83845585888d37937eec1a54fe9f51ec7544742cafbe00a9fc"
+        },
+        "wide": {
+          "file": "wide/192-ea3d544519c0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/192-ea3d544519c0.png",
+          "sha256": "ea3d544519c0e170f784523c301b5c065ae53e4b8d7767992e4d373c662b5d2a"
+        }
+      }
+    },
+    {
+      "number": 193,
+      "name": "PL3X War Cinema",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "swords",
+      "formats": {
+        "guide": {
+          "file": "guide/193-4024802eb473.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/193-4024802eb473.png",
+          "sha256": "4024802eb473850da623db4ac459cddb5f3833e1e485f46aa2f60dc200979abb"
+        },
+        "wide": {
+          "file": "wide/193-02cc95426c63.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/193-02cc95426c63.png",
+          "sha256": "02cc95426c636c170cad66924c4f7b106282ae03b2ba93876e93ff497fd67a4a"
+        }
+      }
+    },
+    {
+      "number": 194,
+      "name": "PL3X Director: Spielberg",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "aperture",
+      "formats": {
+        "guide": {
+          "file": "guide/194-11d8135b55d6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/194-11d8135b55d6.png",
+          "sha256": "11d8135b55d6d99c49427b26462ec3be6e9aad394b76c44a98817a647ca5e97b"
+        },
+        "wide": {
+          "file": "wide/194-6bd2740d6cc0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/194-6bd2740d6cc0.png",
+          "sha256": "6bd2740d6cc087fffeb642d9ecedc0bd5ad2ed943837ef968f53717c9ac2e7c7"
+        }
+      }
+    },
+    {
+      "number": 195,
+      "name": "PL3X Director: Nolan",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "aperture",
+      "formats": {
+        "guide": {
+          "file": "guide/195-fe193a0d3c63.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/195-fe193a0d3c63.png",
+          "sha256": "fe193a0d3c63721d2c1d7615f0a9cc3ababd75359e6f14f8df3a8adc57195bf7"
+        },
+        "wide": {
+          "file": "wide/195-d037aa08c504.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/195-d037aa08c504.png",
+          "sha256": "d037aa08c5049278ef2262ab7c8cafce8a54410dd50f9b6a1c6c44882519d5ce"
+        }
+      }
+    },
+    {
+      "number": 196,
+      "name": "PL3X Director: Scorsese",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "aperture",
+      "formats": {
+        "guide": {
+          "file": "guide/196-f69ac3edf49b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/196-f69ac3edf49b.png",
+          "sha256": "f69ac3edf49ba5e3327dff3d8ea3b7badbe1bcfb551bfda7d0190054e5337227"
+        },
+        "wide": {
+          "file": "wide/196-33b3767279fe.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/196-33b3767279fe.png",
+          "sha256": "33b3767279fe5e8ab428b02162daf0af752d2b73c6b1ada05bbd327f457cdb8a"
+        }
+      }
+    },
+    {
+      "number": 197,
+      "name": "PL3X Studio: Pixar",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/197-b2bc9d3fff39.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/197-b2bc9d3fff39.png",
+          "sha256": "b2bc9d3fff399119597c91265dbd3439f010633e9986d5fddb8cae1d77e19494"
+        },
+        "wide": {
+          "file": "wide/197-139cfcb7f363.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/197-139cfcb7f363.png",
+          "sha256": "139cfcb7f3632bf01573e77e5822937e2fee43a3b3d584bfbcbf2c85c10df8d7"
+        }
+      }
+    },
+    {
+      "number": 198,
+      "name": "PL3X Studio: A24",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "aperture",
+      "formats": {
+        "guide": {
+          "file": "guide/198-e751a8080221.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/198-e751a8080221.png",
+          "sha256": "e751a80802212abf752f4f88573a740c2557b8a5c71892933da2369d0649b693"
+        },
+        "wide": {
+          "file": "wide/198-e979f2ec26df.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/198-e979f2ec26df.png",
+          "sha256": "e979f2ec26df5c6843dbaf2fc2890e352d4191ceb390b4e39eaa1c40a79a3450"
+        }
+      }
+    },
+    {
+      "number": 199,
+      "name": "PL3X Studio: Ghibli",
+      "group": "PL3X Movies",
+      "category": "MOVIES",
+      "icon": "leaf",
+      "formats": {
+        "guide": {
+          "file": "guide/199-ac99687e299e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/199-ac99687e299e.png",
+          "sha256": "ac99687e299e90875c77614894381806b2a84cf6d8e82e716832e64fb2868081"
+        },
+        "wide": {
+          "file": "wide/199-9c3bf10b26c3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/199-9c3bf10b26c3.png",
+          "sha256": "9c3bf10b26c3d18e80fea0fa804f6d8126f84959acd05f2a58bd8306bcb20fe1"
+        }
+      }
+    },
+    {
+      "number": 201,
+      "name": "PL3X TV Roulette",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "shuffle",
+      "formats": {
+        "guide": {
+          "file": "guide/201-953c2a314fd8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/201-953c2a314fd8.png",
+          "sha256": "953c2a314fd8eb72094e7ec985319774807f284382b6a26a435b3292da6fe191"
+        },
+        "wide": {
+          "file": "wide/201-ceb3f0ee2f64.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/201-ceb3f0ee2f64.png",
+          "sha256": "ceb3f0ee2f644f1dd2b23f04ce13762869b998ebcc728268c4d37a13dc9aad68"
+        }
+      }
+    },
+    {
+      "number": 202,
+      "name": "PL3X TV From the Last Five Years",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "star",
+      "formats": {
+        "guide": {
+          "file": "guide/202-6aafd4a14b16.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/202-6aafd4a14b16.png",
+          "sha256": "6aafd4a14b16a51fc9ae948333a74f691caf4dbb51343358c72d5a3c166d5acc"
+        },
+        "wide": {
+          "file": "wide/202-b434eefa0893.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/202-b434eefa0893.png",
+          "sha256": "b434eefa0893f858ade40e37aa55c4ca70d23d8f805c1a51978ec72fdd7fdc95"
+        }
+      }
+    },
+    {
+      "number": 203,
+      "name": "PL3X TV Pilot Episodes",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "door-open",
+      "formats": {
+        "guide": {
+          "file": "guide/203-1f61f50bb581.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/203-1f61f50bb581.png",
+          "sha256": "1f61f50bb581576d06adc2ff56eeb08a3c3a698e60d9ad9109104487febee2c6"
+        },
+        "wide": {
+          "file": "wide/203-bd49d85a319f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/203-bd49d85a319f.png",
+          "sha256": "bd49d85a319f5c8c09830b4073b6e13b4dd4f57903bed56dec979937f5d063e4"
+        }
+      }
+    },
+    {
+      "number": 204,
+      "name": "PL3X TV Season Finales",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "trophy",
+      "formats": {
+        "guide": {
+          "file": "guide/204-b4587a7bacf3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/204-b4587a7bacf3.png",
+          "sha256": "b4587a7bacf3c27617a7b1dc3266082df1dca073f7ed68b6c07c98ad99e1179f"
+        },
+        "wide": {
+          "file": "wide/204-b07e2eca3f54.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/204-b07e2eca3f54.png",
+          "sha256": "b07e2eca3f54726e682283fcfea0eb47f4bcd48c9ae39b29a7cd62be29a7a0d9"
+        }
+      }
+    },
+    {
+      "number": 205,
+      "name": "PL3X Half-Hour Television",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "timer",
+      "formats": {
+        "guide": {
+          "file": "guide/205-a9e304fc7e01.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/205-a9e304fc7e01.png",
+          "sha256": "a9e304fc7e012499a09ad8d9a7273ed7fbba44fa558dcdf0d98b9f17914127d4"
+        },
+        "wide": {
+          "file": "wide/205-bd885ccb9bbd.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/205-bd885ccb9bbd.png",
+          "sha256": "bd885ccb9bbd24d0c11e816261226c613798925d4f46e86879b49976fb502900"
+        }
+      }
+    },
+    {
+      "number": 206,
+      "name": "PL3X Hour-Long Television",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "clock-3",
+      "formats": {
+        "guide": {
+          "file": "guide/206-1e221f5db834.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/206-1e221f5db834.png",
+          "sha256": "1e221f5db834d3a06bf7faad82ca624d642b044e3c490739d79b5740971fc6f8"
+        },
+        "wide": {
+          "file": "wide/206-4bb0cf4b8773.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/206-4bb0cf4b8773.png",
+          "sha256": "4bb0cf4b877338786f9b756d0b9a08c41a6b0450e771710bfd670db5d30f2e42"
+        }
+      }
+    },
+    {
+      "number": 207,
+      "name": "PL3X Classic TV",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/207-91249e71dbe4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/207-91249e71dbe4.png",
+          "sha256": "91249e71dbe4eef7dc0b0577ff231b7384b8abbc37b5b1910a63f67b4a6b3c73"
+        },
+        "wide": {
+          "file": "wide/207-f0191d1f0418.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/207-f0191d1f0418.png",
+          "sha256": "f0191d1f041862bc836ecc0586454a6c568fe2654f7416d4dae1dfb4a0e92b37"
+        }
+      }
+    },
+    {
+      "number": 208,
+      "name": "PL3X Recent TV",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/208-06a4e1a3cfea.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/208-06a4e1a3cfea.png",
+          "sha256": "06a4e1a3cfeaa107605f1bdd2b0080d58569db7e7f384dfbfd72ee29aca1c70b"
+        },
+        "wide": {
+          "file": "wide/208-238e36bcfccb.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/208-238e36bcfccb.png",
+          "sha256": "238e36bcfccb926d13fca44afd66a45d6291830f84663f69993c0e03cabbe7bf"
+        }
+      }
+    },
+    {
+      "number": 209,
+      "name": "PL3X Comedy TV Spotlight",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/209-5e437854ccf4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/209-5e437854ccf4.png",
+          "sha256": "5e437854ccf498ca41240268de6d4ea86000398f4ac8f3c0617be09e1e49f5e9"
+        },
+        "wide": {
+          "file": "wide/209-cf09c90d5d55.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/209-cf09c90d5d55.png",
+          "sha256": "cf09c90d5d5586afab65ef5edb316cfe9ae7004470b5d4c8d56133cdd1be723b"
+        }
+      }
+    },
+    {
+      "number": 210,
+      "name": "PL3X TV Anniversary",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "clock-3",
+      "formats": {
+        "guide": {
+          "file": "guide/210-3aeae10d233c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/210-3aeae10d233c.png",
+          "sha256": "3aeae10d233c5f5fae36f0ee8144ae8c7b222a57ca966c142447f62720e92de6"
+        },
+        "wide": {
+          "file": "wide/210-7208395a98ee.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/210-7208395a98ee.png",
+          "sha256": "7208395a98eede1a1bbee20bbb4508d26c7c7d1c19b54c298b3b7faaca135924"
+        }
+      }
+    },
+    {
+      "number": 220,
+      "name": "PL3X Sitcoms",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/220-bb97d80939d9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/220-bb97d80939d9.png",
+          "sha256": "bb97d80939d91752a7e415b53752675cccee98bf5263d755c2de7c795cc15633"
+        },
+        "wide": {
+          "file": "wide/220-6f9d48a946b3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/220-6f9d48a946b3.png",
+          "sha256": "6f9d48a946b3692bb371a7bcf59f09246ed0a4c18b98f0b3cdaa2905a53b13f8"
+        }
+      }
+    },
+    {
+      "number": 221,
+      "name": "PL3X TV Drama",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "book-open",
+      "formats": {
+        "guide": {
+          "file": "guide/221-865d806c0c1c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/221-865d806c0c1c.png",
+          "sha256": "865d806c0c1c982569d2518417a69c8920f48195837d9e3f2b97042caa58700a"
+        },
+        "wide": {
+          "file": "wide/221-b871719beb5d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/221-b871719beb5d.png",
+          "sha256": "b871719beb5d20fb17991a4ad7a2f5467b39fc611bdca46cbd1ff330a6499c50"
+        }
+      }
+    },
+    {
+      "number": 222,
+      "name": "PL3X Sci-Fi TV",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/222-d1b352d62dd0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/222-d1b352d62dd0.png",
+          "sha256": "d1b352d62dd06c08131271f1c98a965bca888cf854a3dfdb3edda14133185c7e"
+        },
+        "wide": {
+          "file": "wide/222-a780abeb8ade.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/222-a780abeb8ade.png",
+          "sha256": "a780abeb8adecafbc99cf0b3ecb9b7ef4324354eebebbfd8998400404609a797"
+        }
+      }
+    },
+    {
+      "number": 223,
+      "name": "PL3X Animated TV",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/223-1f8316e6fe36.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/223-1f8316e6fe36.png",
+          "sha256": "1f8316e6fe3634aff7a8f19f9fe3e5cde19de58c536dbdbf8791efb45448b6a3"
+        },
+        "wide": {
+          "file": "wide/223-9729e2048192.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/223-9729e2048192.png",
+          "sha256": "9729e2048192ea799ace703fec9d6fa91063e1bbb544d34ce30cc61aa2e15fd1"
+        }
+      }
+    },
+    {
+      "number": 224,
+      "name": "PL3X Crime TV",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "badge",
+      "formats": {
+        "guide": {
+          "file": "guide/224-5250826e13c7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/224-5250826e13c7.png",
+          "sha256": "5250826e13c7cc58195bc473cc82b898d2b9037a70058ab275f72d52e285ce55"
+        },
+        "wide": {
+          "file": "wide/224-3026bc842658.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/224-3026bc842658.png",
+          "sha256": "3026bc842658f53b0464eeae3036dc21303cf7721850a238d12f47e90012816a"
+        }
+      }
+    },
+    {
+      "number": 225,
+      "name": "PL3X Drama TV Spotlight",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "book-open",
+      "formats": {
+        "guide": {
+          "file": "guide/225-11a6fbd006fa.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/225-11a6fbd006fa.png",
+          "sha256": "11a6fbd006fab6d485e4c99064bd7f8d8aa7c0d49b889c650e53ce1f9b3bb614"
+        },
+        "wide": {
+          "file": "wide/225-ae8ff874b46d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/225-ae8ff874b46d.png",
+          "sha256": "ae8ff874b46dfca193571f4865ceb21613a8769ba6a2ed86ae68138faf6da1c5"
+        }
+      }
+    },
+    {
+      "number": 226,
+      "name": "PL3X TV Documentaries",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "binoculars",
+      "formats": {
+        "guide": {
+          "file": "guide/226-ce2bff76bea7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/226-ce2bff76bea7.png",
+          "sha256": "ce2bff76bea7f6b2c657139384f36b15e8338e275d8483c7ea85be69e3a1a8aa"
+        },
+        "wide": {
+          "file": "wide/226-25e3f0e83114.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/226-25e3f0e83114.png",
+          "sha256": "25e3f0e83114ee7d915896b2e8fc30e0660bf1d192dee0436533ca23779a4c84"
+        }
+      }
+    },
+    {
+      "number": 227,
+      "name": "PL3X Kids Television",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/227-620615e090da.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/227-620615e090da.png",
+          "sha256": "620615e090da4165eca31c99d6e25bdca43cd4b1b540fd13481322813408843a"
+        },
+        "wide": {
+          "file": "wide/227-d69ab218af3b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/227-d69ab218af3b.png",
+          "sha256": "d69ab218af3bf13cf9cea08c4e8d48f6a421ed0003b82d756fcc0c7365a2ffc1"
+        }
+      }
+    },
+    {
+      "number": 228,
+      "name": "PL3X TV Fantasy",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "wand-sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/228-4ad6c69e5698.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/228-4ad6c69e5698.png",
+          "sha256": "4ad6c69e5698711dab32769de4efc288a937a706e723279ab3ded28133375b2f"
+        },
+        "wide": {
+          "file": "wide/228-01a93ad29ca0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/228-01a93ad29ca0.png",
+          "sha256": "01a93ad29ca0510c7de98fc9f696311012b10f1d618e844d70ea8880a3ac0b60"
+        }
+      }
+    },
+    {
+      "number": 229,
+      "name": "PL3X TV Action",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/229-95bb718b7128.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/229-95bb718b7128.png",
+          "sha256": "95bb718b7128a3a569ee92ac201848f92c8470cf77eeab3c4c6944725efb753b"
+        },
+        "wide": {
+          "file": "wide/229-62b295bd0d2c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/229-62b295bd0d2c.png",
+          "sha256": "62b295bd0d2ce1411185431761ff62684fe8d768c95ad09d480857e6d0e588e9"
+        }
+      }
+    },
+    {
+      "number": 230,
+      "name": "PL3X TV Mystery",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/230-2c1754ef747a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/230-2c1754ef747a.png",
+          "sha256": "2c1754ef747ac7c88170a590d123672f2e58bb81cbdd8f42771b18b98ee2df15"
+        },
+        "wide": {
+          "file": "wide/230-8a5d2bb910a4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/230-8a5d2bb910a4.png",
+          "sha256": "8a5d2bb910a48257ff5c61b4fce44d9190440f61604d6e295387b91295a8618f"
+        }
+      }
+    },
+    {
+      "number": 231,
+      "name": "PL3X TV Romance",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "heart",
+      "formats": {
+        "guide": {
+          "file": "guide/231-19ab4bd76d8c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/231-19ab4bd76d8c.png",
+          "sha256": "19ab4bd76d8cd5dd919dc62d4ca16214c11b726302ef67f6e2a14e40f7fcbd2f"
+        },
+        "wide": {
+          "file": "wide/231-44ee0d0a2e65.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/231-44ee0d0a2e65.png",
+          "sha256": "44ee0d0a2e65effc84255042039f47d4b624a75af0672fe9bf2ee9911c12414f"
+        }
+      }
+    },
+    {
+      "number": 232,
+      "name": "PL3X TV Adventure",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "zap",
+      "formats": {
+        "guide": {
+          "file": "guide/232-3e7ae094c2a5.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/232-3e7ae094c2a5.png",
+          "sha256": "3e7ae094c2a5ab77b3c8ccd798f62a638bdc623e01207ae7852b3dcc6664b5c6"
+        },
+        "wide": {
+          "file": "wide/232-365c10816dfc.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/232-365c10816dfc.png",
+          "sha256": "365c10816dfc4ce762db56e1f71a1124e8010a6ed2d72554c79b5219951562e6"
+        }
+      }
+    },
+    {
+      "number": 233,
+      "name": "PL3X TV History",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "landmark",
+      "formats": {
+        "guide": {
+          "file": "guide/233-ef2cc025c773.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/233-ef2cc025c773.png",
+          "sha256": "ef2cc025c7739f2eb47f78a53d6e49c0bed3da5a3cf61b105b10dee7f6349cce"
+        },
+        "wide": {
+          "file": "wide/233-8fb0e7959c07.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/233-8fb0e7959c07.png",
+          "sha256": "8fb0e7959c07e82c8d6f30d9b531069f12c649ba10ee7029e1ac662e53cf567b"
+        }
+      }
+    },
+    {
+      "number": 234,
+      "name": "PL3X TV Horror",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/234-39ec20ba8cc8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/234-39ec20ba8cc8.png",
+          "sha256": "39ec20ba8cc83e1cb3172f04574be666c3006abd56e2d3bd9ddf270369142cc0"
+        },
+        "wide": {
+          "file": "wide/234-42f3b5b13bcb.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/234-42f3b5b13bcb.png",
+          "sha256": "42f3b5b13bcb55799426f72587cdab4c6b61c9d47f78340bc65afe9955ba251f"
+        }
+      }
+    },
+    {
+      "number": 235,
+      "name": "PL3X TV Thrillers",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/235-70054e8df9c5.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/235-70054e8df9c5.png",
+          "sha256": "70054e8df9c5ec992a072a3a54c3c9304501537fb18a04dd7c7555640841cc6f"
+        },
+        "wide": {
+          "file": "wide/235-8cb8ddcb0822.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/235-8cb8ddcb0822.png",
+          "sha256": "8cb8ddcb0822815cd33026b7686e6feb52f99b4be75ac8a0f62cb5486053310e"
+        }
+      }
+    },
+    {
+      "number": 236,
+      "name": "PL3X Battles & Epics TV",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "swords",
+      "formats": {
+        "guide": {
+          "file": "guide/236-c47436938376.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/236-c47436938376.png",
+          "sha256": "c474369383766afa61ce1fea84241c25cc27b775c2c89a1e4c6e6f067f287b2d"
+        },
+        "wide": {
+          "file": "wide/236-1d6196015781.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/236-1d6196015781.png",
+          "sha256": "1d619601578171bb3210674e90a8ec56196ee3654adfdd5b0e0561fc32c1e1a6"
+        }
+      }
+    },
+    {
+      "number": 237,
+      "name": "PL3X TV Western",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "sunset",
+      "formats": {
+        "guide": {
+          "file": "guide/237-3aeb46e3071e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/237-3aeb46e3071e.png",
+          "sha256": "3aeb46e3071e2ec26d18927c66504ed2de240532eaf06d83b599cfaec4d14789"
+        },
+        "wide": {
+          "file": "wide/237-d3b6405cbf21.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/237-d3b6405cbf21.png",
+          "sha256": "d3b6405cbf21811d17f322ffb09a31304e556f7e869d3632710ddc18e28b5e8c"
+        }
+      }
+    },
+    {
+      "number": 238,
+      "name": "PL3X Mystery TV Spotlight",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/238-462e3dcf513c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/238-462e3dcf513c.png",
+          "sha256": "462e3dcf513c3a17e62e5d83ff3709d5500edbd0df17c029bc0cf40f53b31fc8"
+        },
+        "wide": {
+          "file": "wide/238-1e56516cf41b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/238-1e56516cf41b.png",
+          "sha256": "1e56516cf41b2bc2ed1016d1fbc37de6e5ca0be91946b37243a871a574cf6c25"
+        }
+      }
+    },
+    {
+      "number": 239,
+      "name": "PL3X TV Anime",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/239-31ce32be9b41.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/239-31ce32be9b41.png",
+          "sha256": "31ce32be9b4145fc3e03cc19b4dd06cb8f001ffc71a6ba54962f487894a9fed7"
+        },
+        "wide": {
+          "file": "wide/239-3e5a1ee13d43.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/239-3e5a1ee13d43.png",
+          "sha256": "3e5a1ee13d43f4a3eb06740bd2af25f5da63cf1eae734660078ec0c5bac5dc1f"
+        }
+      }
+    },
+    {
+      "number": 240,
+      "name": "PL3X TV Animation for Adults",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/240-26f1a0685f09.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/240-26f1a0685f09.png",
+          "sha256": "26f1a0685f09ccadc42c89e04c3b7aca31f485c2c0744626ce54897a51fd3888"
+        },
+        "wide": {
+          "file": "wide/240-4737c41c0d3d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/240-4737c41c0d3d.png",
+          "sha256": "4737c41c0d3dac0172e33bdbedbd7ec003c3936642d41d71d9fed6f8824e0ad9"
+        }
+      }
+    },
+    {
+      "number": 241,
+      "name": "PL3X TV Science and Nature",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "binoculars",
+      "formats": {
+        "guide": {
+          "file": "guide/241-edbc3e20a6e8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/241-edbc3e20a6e8.png",
+          "sha256": "edbc3e20a6e85697aff8f700fd85073c4ee18d4d1cafdfab6ca53e7d466427fe"
+        },
+        "wide": {
+          "file": "wide/241-8a1b055256cb.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/241-8a1b055256cb.png",
+          "sha256": "8a1b055256cb396e869d753e9e126384d9275d4c49688a836c2b565063c9a651"
+        }
+      }
+    },
+    {
+      "number": 242,
+      "name": "PL3X Comedy & Talk",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/242-08de802541b7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/242-08de802541b7.png",
+          "sha256": "08de802541b7f43cd2a02588715be28b417cf4faf9ed4aad359aeab470e1e1eb"
+        },
+        "wide": {
+          "file": "wide/242-53c492c8f0dc.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/242-53c492c8f0dc.png",
+          "sha256": "53c492c8f0dc4ac1be72d8e5b4becc99af78c6188466ef9d9626b6753003e5fc"
+        }
+      }
+    },
+    {
+      "number": 243,
+      "name": "PL3X All-Day Comedy TV",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/243-a075e8026d88.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/243-a075e8026d88.png",
+          "sha256": "a075e8026d88ae95315b53f78556ed2d7942baf40b9e842802e0cdd3803e0304"
+        },
+        "wide": {
+          "file": "wide/243-b6d3902d4d8a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/243-b6d3902d4d8a.png",
+          "sha256": "b6d3902d4d8a93698e63fcdcb5ff1082258aa46f532ba7eb8bb9f94a1c5b3d8c"
+        }
+      }
+    },
+    {
+      "number": 244,
+      "name": "PL3X Family TV Spotlight",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/244-27b110b07f3d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/244-27b110b07f3d.png",
+          "sha256": "27b110b07f3d452220b77f8e4f8459fb143ce4571ecdf9078bc617aef044b979"
+        },
+        "wide": {
+          "file": "wide/244-cf6fa6b48d52.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/244-cf6fa6b48d52.png",
+          "sha256": "cf6fa6b48d52fc1c8a1b2f4103a06e40b95f0096cdfca2a962af263adcfe69bc"
+        }
+      }
+    },
+    {
+      "number": 251,
+      "name": "PL3X HBO Shows",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/251-cf30a6c88a1d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/251-cf30a6c88a1d.png",
+          "sha256": "cf30a6c88a1d9a104b96709057cbc18060cefacde93e680fb225b33c3040c591"
+        },
+        "wide": {
+          "file": "wide/251-56f21de78a50.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/251-56f21de78a50.png",
+          "sha256": "56f21de78a50caadc0f61a7d95fbec8cd888aef4f3624009694ed1b372f94b57"
+        }
+      }
+    },
+    {
+      "number": 252,
+      "name": "PL3X BBC TV",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/252-3f05393f8971.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/252-3f05393f8971.png",
+          "sha256": "3f05393f8971f834604a2fee3c8db5f3e936ada313e26b9b9f24ab6ff2d31242"
+        },
+        "wide": {
+          "file": "wide/252-1a8175da2bc9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/252-1a8175da2bc9.png",
+          "sha256": "1a8175da2bc93f251144a5fd2eb4d1077bc72baf70b8a63dfdbe352f6bb28020"
+        }
+      }
+    },
+    {
+      "number": 253,
+      "name": "PL3X PBS Television",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/253-088641795712.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/253-088641795712.png",
+          "sha256": "08864179571291062b5c509824dc9a44c4748a4cb3b2cdac31331400ab79bb89"
+        },
+        "wide": {
+          "file": "wide/253-61ff7fbed336.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/253-61ff7fbed336.png",
+          "sha256": "61ff7fbed336c703c79ec42752a325a6f83a24e93b03b13cbcbb5725376a2447"
+        }
+      }
+    },
+    {
+      "number": 254,
+      "name": "PL3X ABC Television",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/254-484e60951a50.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/254-484e60951a50.png",
+          "sha256": "484e60951a50890b582b8267c20ad24e039ecb4c337200deeabe9d7b6bf5c2f7"
+        },
+        "wide": {
+          "file": "wide/254-9dbd9ebed277.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/254-9dbd9ebed277.png",
+          "sha256": "9dbd9ebed2770a9545cc750cc88b049ff7a20b2607b3aaa1e12c094f30a62349"
+        }
+      }
+    },
+    {
+      "number": 255,
+      "name": "PL3X NBC Television",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/255-c4572ad099ed.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/255-c4572ad099ed.png",
+          "sha256": "c4572ad099ed4355bf97e91c5dc9a1a2f7f026edcd856d633ae80b069fff976b"
+        },
+        "wide": {
+          "file": "wide/255-1f021141cc65.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/255-1f021141cc65.png",
+          "sha256": "1f021141cc651db84bf2dbeb88f788c7d701032d7aaa2ae8de6ec024c2569922"
+        }
+      }
+    },
+    {
+      "number": 256,
+      "name": "PL3X CBS Television",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/256-fdadf1936c9d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/256-fdadf1936c9d.png",
+          "sha256": "fdadf1936c9df0ef38d29600f624979225cab7b33a0c43acbf0f445f42147b02"
+        },
+        "wide": {
+          "file": "wide/256-f20302a0b016.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/256-f20302a0b016.png",
+          "sha256": "f20302a0b0169864943f37fb032137f6e67123358520e02c616ebdce52588a0f"
+        }
+      }
+    },
+    {
+      "number": 257,
+      "name": "PL3X FOX Television",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/257-6183305a7dc7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/257-6183305a7dc7.png",
+          "sha256": "6183305a7dc7595f6d4e4f1f454f028e3062129c1920f4e32aa05439480ef773"
+        },
+        "wide": {
+          "file": "wide/257-638a3907a578.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/257-638a3907a578.png",
+          "sha256": "638a3907a578290ab764683b9ffa146b8c083796c19603be77759432b9b4aeb8"
+        }
+      }
+    },
+    {
+      "number": 258,
+      "name": "PL3X FX Television",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/258-063688865c6a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/258-063688865c6a.png",
+          "sha256": "063688865c6a02bf241d3597fee6e90eb4c9bd01a1c4a521a4b7c37356c3c40c"
+        },
+        "wide": {
+          "file": "wide/258-7e65e75b0c43.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/258-7e65e75b0c43.png",
+          "sha256": "7e65e75b0c43471eeb5f5a302c33c6f24b29036a5c61f394d11daefcc038961c"
+        }
+      }
+    },
+    {
+      "number": 259,
+      "name": "PL3X AMC Television",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/259-aad7d6c815ab.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/259-aad7d6c815ab.png",
+          "sha256": "aad7d6c815abfbf6a0fe5cb2fe20ceeea3421398e6b713ea0597d04ee9313310"
+        },
+        "wide": {
+          "file": "wide/259-346bd732a47d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/259-346bd732a47d.png",
+          "sha256": "346bd732a47d1eb6766803d8e27be7fe36915fdcfbdaf9ee964ddd7298eaa6fe"
+        }
+      }
+    },
+    {
+      "number": 260,
+      "name": "PL3X Cartoon Network",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/260-92eaa867be35.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/260-92eaa867be35.png",
+          "sha256": "92eaa867be35779da1048cc0b90d5bedb58588eaeccc3dbeb5c90779a478fdd0"
+        },
+        "wide": {
+          "file": "wide/260-8dc75b2851e5.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/260-8dc75b2851e5.png",
+          "sha256": "8dc75b2851e5fb273be2e2956b1e048be8004d353e9805873886d119c3499da8"
+        }
+      }
+    },
+    {
+      "number": 261,
+      "name": "PL3X Animation TV",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/261-902ccac6e94e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/261-902ccac6e94e.png",
+          "sha256": "902ccac6e94e87f8aba628940b3209ec88c44dbddc53bb1ac83f34d01420e094"
+        },
+        "wide": {
+          "file": "wide/261-5cd69e0f84a2.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/261-5cd69e0f84a2.png",
+          "sha256": "5cd69e0f84a2f63d6617ab570350453218e050bb217f23838849a0a3fb371159"
+        }
+      }
+    },
+    {
+      "number": 262,
+      "name": "PL3X Comedy Central",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/262-1695db5eea07.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/262-1695db5eea07.png",
+          "sha256": "1695db5eea07e42fa48934ef7e6623b7744a617c309b633ddd9beb8e2054d89c"
+        },
+        "wide": {
+          "file": "wide/262-42bed3de6786.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/262-42bed3de6786.png",
+          "sha256": "42bed3de678689419e28b16324811ab855262099a75d8e0167d822ece615b9a9"
+        }
+      }
+    },
+    {
+      "number": 263,
+      "name": "PL3X Adult Swim",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/263-4cb297cf8854.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/263-4cb297cf8854.png",
+          "sha256": "4cb297cf8854dee1888a7bcebe6aaa5a0247b3f25ca425579e790e5a49eeecd1"
+        },
+        "wide": {
+          "file": "wide/263-bc4f42e19ecf.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/263-bc4f42e19ecf.png",
+          "sha256": "bc4f42e19ecfeca2765cfe1db6e9af018725676c529170601148e126d8d0588a"
+        }
+      }
+    },
+    {
+      "number": 264,
+      "name": "PL3X Netflix Originals",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/264-27dd3c6b2c1f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/264-27dd3c6b2c1f.png",
+          "sha256": "27dd3c6b2c1ffc2c2b289f69f879aeb66b0cf16bf94df8f976e146e1917ed805"
+        },
+        "wide": {
+          "file": "wide/264-754d4cccdc8c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/264-754d4cccdc8c.png",
+          "sha256": "754d4cccdc8c2805b6931d495e49059747bd1627c44f2282b4c01c50bb63990f"
+        }
+      }
+    },
+    {
+      "number": 265,
+      "name": "PL3X Apple TV+ Originals",
+      "group": "PL3X TV",
+      "category": "TELEVISION",
+      "icon": "tv-minimal",
+      "formats": {
+        "guide": {
+          "file": "guide/265-db9a21a48582.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/265-db9a21a48582.png",
+          "sha256": "db9a21a48582ffea3a292d44a4e5801360d3936ad7716eb6caa14a4e0ea6860d"
+        },
+        "wide": {
+          "file": "wide/265-b79dd9a0deb3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/265-b79dd9a0deb3.png",
+          "sha256": "b79dd9a0deb38f4a132f7c072fc01b46f876f90188d8d70d331ea7109cc91fde"
+        }
+      }
+    },
+    {
+      "number": 301,
+      "name": "PL3X TMDb Top Rated",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/301-b89c0af5e66a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/301-b89c0af5e66a.png",
+          "sha256": "b89c0af5e66aa8c9b94938a8b8f43a7519703d26b7176be961893cba73f5c19b"
+        },
+        "wide": {
+          "file": "wide/301-5cfcaed10082.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/301-5cfcaed10082.png",
+          "sha256": "5cfcaed100824104b15dfe4683e4e94fac4174b03a65909d79568bc8e151a010"
+        }
+      }
+    },
+    {
+      "number": 302,
+      "name": "PL3X Trending Now",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "star",
+      "formats": {
+        "guide": {
+          "file": "guide/302-e89c6f0f3257.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/302-e89c6f0f3257.png",
+          "sha256": "e89c6f0f3257123f71efe6c0ff3ecabbf7f475a2e963e7f87ac89ac7cd916a8c"
+        },
+        "wide": {
+          "file": "wide/302-23745a48d6f4.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/302-23745a48d6f4.png",
+          "sha256": "23745a48d6f4ef7b4db9ee75413eec8f35fbf321183931c1b189144bcbc67a13"
+        }
+      }
+    },
+    {
+      "number": 303,
+      "name": "PL3X Oscar Winners",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/303-51a9d31d292b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/303-51a9d31d292b.png",
+          "sha256": "51a9d31d292ba40174ef8fd7979fd4a97f54e958b8dc7f664e344e723a0011be"
+        },
+        "wide": {
+          "file": "wide/303-748971d7ffcc.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/303-748971d7ffcc.png",
+          "sha256": "748971d7ffccf25b44605d9f329ab9a2dafe540cbcd86a23f33bbd07da6f6fd9"
+        }
+      }
+    },
+    {
+      "number": 304,
+      "name": "PL3X IMDb Top 250",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "star",
+      "formats": {
+        "guide": {
+          "file": "guide/304-827548df0297.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/304-827548df0297.png",
+          "sha256": "827548df02974cad74ca4a9d089269d88cfb63e6e6ede2296c6b61e0b29ad124"
+        },
+        "wide": {
+          "file": "wide/304-df97f6b89eb8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/304-df97f6b89eb8.png",
+          "sha256": "df97f6b89eb80dad6a6fcae7dd75a95568c4abe64e714170b80a44facfce2795"
+        }
+      }
+    },
+    {
+      "number": 305,
+      "name": "PL3X IMDb Popular",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/305-d33c6da35da3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/305-d33c6da35da3.png",
+          "sha256": "d33c6da35da33e53ad28afaf8b7ede9f35f88f4c275164296480d342bb15ada1"
+        },
+        "wide": {
+          "file": "wide/305-beac9302784b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/305-beac9302784b.png",
+          "sha256": "beac9302784b286e9c13cf7f3199d51f4bed9d61bd8fc33e73caf015cf3341dd"
+        }
+      }
+    },
+    {
+      "number": 306,
+      "name": "PL3X Acclaimed Sci-Fi",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "orbit",
+      "formats": {
+        "guide": {
+          "file": "guide/306-2fd6a4655359.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/306-2fd6a4655359.png",
+          "sha256": "2fd6a4655359fd2b714846724c66ff8e559ecec23daf64d38be3df8a28e5d3ef"
+        },
+        "wide": {
+          "file": "wide/306-5482b6a1a9ea.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/306-5482b6a1a9ea.png",
+          "sha256": "5482b6a1a9ea6815d1aa14043c432b65b45d92189b5ea077fc26f3d6c1281ac9"
+        }
+      }
+    },
+    {
+      "number": 307,
+      "name": "PL3X Acclaimed Comedy",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "drama",
+      "formats": {
+        "guide": {
+          "file": "guide/307-a79b574a6a20.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/307-a79b574a6a20.png",
+          "sha256": "a79b574a6a20f35f82eb929f9bc5c1c1229fc587151ba3c74f86a25b0b23c1a1"
+        },
+        "wide": {
+          "file": "wide/307-faca249758ab.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/307-faca249758ab.png",
+          "sha256": "faca249758ab76cce361e4b0b6181f413f11335acc1c87494314b9965cb6e136"
+        }
+      }
+    },
+    {
+      "number": 308,
+      "name": "PL3X Acclaimed Animation",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "pencil-ruler",
+      "formats": {
+        "guide": {
+          "file": "guide/308-ad556b633fa8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/308-ad556b633fa8.png",
+          "sha256": "ad556b633fa82cf8201e941e7d92d0b6470f175cf5e847aeadaa69253982b05d"
+        },
+        "wide": {
+          "file": "wide/308-88d4e4afe872.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/308-88d4e4afe872.png",
+          "sha256": "88d4e4afe8721c21602c75d51597c21abcff4950a2c60b1a65a32b639bec392e"
+        }
+      }
+    },
+    {
+      "number": 309,
+      "name": "PL3X Documentary Spotlight",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "binoculars",
+      "formats": {
+        "guide": {
+          "file": "guide/309-348987f342d0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/309-348987f342d0.png",
+          "sha256": "348987f342d01452a746240d66f940241c87140f4a28519df6b16178d1bf0286"
+        },
+        "wide": {
+          "file": "wide/309-4b830b2e6920.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/309-4b830b2e6920.png",
+          "sha256": "4b830b2e69203d0b49c83e437b986adc8f944cb530333142ac4a1dcef1c9dd63"
+        }
+      }
+    },
+    {
+      "number": 310,
+      "name": "PL3X TMDb Popular",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/310-7c1ad0f482c8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/310-7c1ad0f482c8.png",
+          "sha256": "7c1ad0f482c87f3b8af3055f164fc74dd3dd7ad69f2a5a4d22b0bb40f5470ac8"
+        },
+        "wide": {
+          "file": "wide/310-d034f936856a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/310-d034f936856a.png",
+          "sha256": "d034f936856a9d08649d15de44b71e2d460c5ce45125a1940605cc33b1a7e615"
+        }
+      }
+    },
+    {
+      "number": 311,
+      "name": "PL3X Acclaimed Action",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/311-85d0cb40bd05.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/311-85d0cb40bd05.png",
+          "sha256": "85d0cb40bd053b4fdc169841dac9b538602c6bfa0dd47ee284da3465f5d714e1"
+        },
+        "wide": {
+          "file": "wide/311-a9516c60919a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/311-a9516c60919a.png",
+          "sha256": "a9516c60919a1cc2dd853f01f6a2f4f2660904a9660000a37b9281fee91a55fa"
+        }
+      }
+    },
+    {
+      "number": 312,
+      "name": "PL3X Acclaimed Drama",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/312-b52dcb449ded.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/312-b52dcb449ded.png",
+          "sha256": "b52dcb449ded2fb862a73527b154e4417ba5f255a05d3c5dcaa26dab67afd306"
+        },
+        "wide": {
+          "file": "wide/312-91b4585ea61b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/312-91b4585ea61b.png",
+          "sha256": "91b4585ea61bb8128d29f4bcd071e2cb436c7ea516a2f3d9fb20b99e0827163b"
+        }
+      }
+    },
+    {
+      "number": 313,
+      "name": "PL3X Acclaimed Horror",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/313-b043b70d9d5e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/313-b043b70d9d5e.png",
+          "sha256": "b043b70d9d5e88e5b8959bc593f7d6f495d16eb4395c3950cf0e1a12742bffa8"
+        },
+        "wide": {
+          "file": "wide/313-3c5e66f8fb7b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/313-3c5e66f8fb7b.png",
+          "sha256": "3c5e66f8fb7b0289818632faa4ee764cebd670e600b9f1873db8eb7c47ba06cc"
+        }
+      }
+    },
+    {
+      "number": 314,
+      "name": "PL3X Acclaimed Thrillers",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/314-380dd27a85a6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/314-380dd27a85a6.png",
+          "sha256": "380dd27a85a6d31052395a9927609a5afbecebcb697a3110488a7e06e4200a6f"
+        },
+        "wide": {
+          "file": "wide/314-44ea2ae38adf.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/314-44ea2ae38adf.png",
+          "sha256": "44ea2ae38adf1629110705348bc07ad1d1100e15169b050af6a88b1f0b7e34a7"
+        }
+      }
+    },
+    {
+      "number": 315,
+      "name": "PL3X Acclaimed Fantasy",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "wand-sparkles",
+      "formats": {
+        "guide": {
+          "file": "guide/315-9a352479af33.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/315-9a352479af33.png",
+          "sha256": "9a352479af335a90637f6efa3ce6b7914911fff3594784996706de6b036aecab"
+        },
+        "wide": {
+          "file": "wide/315-49ca2e313b02.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/315-49ca2e313b02.png",
+          "sha256": "49ca2e313b0235842430af76e6c079d67e706ee8eb7406e666d2d2feab9f8e0f"
+        }
+      }
+    },
+    {
+      "number": 316,
+      "name": "PL3X Acclaimed Adventure",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/316-a75afd9c6924.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/316-a75afd9c6924.png",
+          "sha256": "a75afd9c6924ffe286fb97203dde01239f002ddb00809a5e4caceb9a4256f86e"
+        },
+        "wide": {
+          "file": "wide/316-fef2216b72db.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/316-fef2216b72db.png",
+          "sha256": "fef2216b72db788d3af6a9852942bd7b93aea7d6764f6eea23936a6e4d1798e0"
+        }
+      }
+    },
+    {
+      "number": 317,
+      "name": "PL3X Acclaimed Crime",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "badge",
+      "formats": {
+        "guide": {
+          "file": "guide/317-08a8a02ad04a.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/317-08a8a02ad04a.png",
+          "sha256": "08a8a02ad04a030f131e40a3a6e1ee2f3aa89103e563f88df053682c40c193e8"
+        },
+        "wide": {
+          "file": "wide/317-96593146fb1c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/317-96593146fb1c.png",
+          "sha256": "96593146fb1caa1e64ce10d671f979b2f4f790323231d94ed9f9c91c8e6318e7"
+        }
+      }
+    },
+    {
+      "number": 318,
+      "name": "PL3X Acclaimed Romance",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "heart",
+      "formats": {
+        "guide": {
+          "file": "guide/318-cda1a3a4bd06.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/318-cda1a3a4bd06.png",
+          "sha256": "cda1a3a4bd0603807b9ef637e40996f5eb514a7b49cedf9f7364f2f519e1c0fc"
+        },
+        "wide": {
+          "file": "wide/318-5b4de23d68ce.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/318-5b4de23d68ce.png",
+          "sha256": "5b4de23d68ce05053fee521dbb23c6f1c78aca4e44fb1b62366bb6d22789242c"
+        }
+      }
+    },
+    {
+      "number": 319,
+      "name": "PL3X Acclaimed War",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "swords",
+      "formats": {
+        "guide": {
+          "file": "guide/319-cbd28947d1ec.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/319-cbd28947d1ec.png",
+          "sha256": "cbd28947d1eca367a80947124dab5f2b13256ce66260c81ebca1db308bcb8600"
+        },
+        "wide": {
+          "file": "wide/319-e967d25b729e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/319-e967d25b729e.png",
+          "sha256": "e967d25b729ed5b655de5b5f5f8f2ee7cd4ce19efbb372cc75bc0b92019c9e1a"
+        }
+      }
+    },
+    {
+      "number": 320,
+      "name": "PL3X Acclaimed Mystery",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "fingerprint-pattern",
+      "formats": {
+        "guide": {
+          "file": "guide/320-564394a40151.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/320-564394a40151.png",
+          "sha256": "564394a401518067c068c9797950d78f3c639f93e35f9fe15e246082c4699dbe"
+        },
+        "wide": {
+          "file": "wide/320-9604382e0aa0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/320-9604382e0aa0.png",
+          "sha256": "9604382e0aa0f2814722dc7da17d5551a3aaf876dfa698eaa6b8c909a7d68dbd"
+        }
+      }
+    },
+    {
+      "number": 321,
+      "name": "PL3X Acclaimed Family",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "blocks",
+      "formats": {
+        "guide": {
+          "file": "guide/321-b2c44c6f5a8d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/321-b2c44c6f5a8d.png",
+          "sha256": "b2c44c6f5a8d9677edbcc12ab139e3982a29060634c7f842882eceb0ef98f258"
+        },
+        "wide": {
+          "file": "wide/321-99ea0e5f7b28.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/321-99ea0e5f7b28.png",
+          "sha256": "99ea0e5f7b287143068dec711aa5eda54083702fd29b20a5ea07a8d15cd34e06"
+        }
+      }
+    },
+    {
+      "number": 322,
+      "name": "PL3X Hidden Gems Beyond IMDb Top 250",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "gem",
+      "formats": {
+        "guide": {
+          "file": "guide/322-58de102f596c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/322-58de102f596c.png",
+          "sha256": "58de102f596cd6f8ccbc8f4f698a21d180d806907b9f2822af99ba795f1315a5"
+        },
+        "wide": {
+          "file": "wide/322-085fc475632d.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/322-085fc475632d.png",
+          "sha256": "085fc475632dfefe7931fdd37b70c9dd63cb32c9fd87b38e6ac033ff7911c907"
+        }
+      }
+    },
+    {
+      "number": 323,
+      "name": "PL3X Long-Form Masterpieces",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "clock-3",
+      "formats": {
+        "guide": {
+          "file": "guide/323-dead74879db2.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/323-dead74879db2.png",
+          "sha256": "dead74879db2858eb5f76eb69b959649f27de43a5c27c665a9fe504024040a1b"
+        },
+        "wide": {
+          "file": "wide/323-885eb76378fe.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/323-885eb76378fe.png",
+          "sha256": "885eb76378feed62b920709b7fd94e03dbda41a81e50d9799dfc92fb1637ce66"
+        }
+      }
+    },
+    {
+      "number": 324,
+      "name": "PL3X Golden-Age Greats",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "star",
+      "formats": {
+        "guide": {
+          "file": "guide/324-e505cfd864a2.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/324-e505cfd864a2.png",
+          "sha256": "e505cfd864a2f2468835e43e800c9fdf5e295bc3b1a32911f70d23067ba35e6d"
+        },
+        "wide": {
+          "file": "wide/324-5115db5d9c1e.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/324-5115db5d9c1e.png",
+          "sha256": "5115db5d9c1ed0b86f770b354749c618e71fe6e3943927a0ad0ca5a59bcfc265"
+        }
+      }
+    },
+    {
+      "number": 325,
+      "name": "PL3X 80s Essentials",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "star",
+      "formats": {
+        "guide": {
+          "file": "guide/325-a70896042d7c.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/325-a70896042d7c.png",
+          "sha256": "a70896042d7c9eb8a46aee13d13d9517c6aa29c2128cb39b9c306b32fbc8158e"
+        },
+        "wide": {
+          "file": "wide/325-7ce09daa89b8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/325-7ce09daa89b8.png",
+          "sha256": "7ce09daa89b8830496528a872cf9860b843efba3f4c8e485cc360ff578a36205"
+        }
+      }
+    },
+    {
+      "number": 326,
+      "name": "PL3X 90s Essentials",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "star",
+      "formats": {
+        "guide": {
+          "file": "guide/326-3cc20caa51ea.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/326-3cc20caa51ea.png",
+          "sha256": "3cc20caa51ea5294274542e2f33be7d9167d0e7c0a8a2961459ab5aaa3453ea6"
+        },
+        "wide": {
+          "file": "wide/326-40b57bdba293.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/326-40b57bdba293.png",
+          "sha256": "40b57bdba293cf3a6132398aef692a01643d1ad2c046e6fba1f19f21457bdf63"
+        }
+      }
+    },
+    {
+      "number": 327,
+      "name": "PL3X Japanese Cinema",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "globe",
+      "formats": {
+        "guide": {
+          "file": "guide/327-c46562c018c2.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/327-c46562c018c2.png",
+          "sha256": "c46562c018c2cdedd6cedbc57c77fe65ba3b8e0e6c9ff4545aab621f2739ba69"
+        },
+        "wide": {
+          "file": "wide/327-34a194d38cfe.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/327-34a194d38cfe.png",
+          "sha256": "34a194d38cfe3ccb25444af591cf9fa3b53feaa337564eacdb54724ff595a429"
+        }
+      }
+    },
+    {
+      "number": 328,
+      "name": "PL3X Korean Cinema",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "globe",
+      "formats": {
+        "guide": {
+          "file": "guide/328-9ae0764bd8d0.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/328-9ae0764bd8d0.png",
+          "sha256": "9ae0764bd8d01848a9db2c40fb9025d43807f97da1f11d2381a174ec32d48ee8"
+        },
+        "wide": {
+          "file": "wide/328-3517d66e78c9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/328-3517d66e78c9.png",
+          "sha256": "3517d66e78c99dd7c16d18476fecd1d8abf821851479c773654ca3822c51c551"
+        }
+      }
+    },
+    {
+      "number": 329,
+      "name": "PL3X French Cinema",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "globe",
+      "formats": {
+        "guide": {
+          "file": "guide/329-d794162edcfb.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/329-d794162edcfb.png",
+          "sha256": "d794162edcfb19fbd7723c67712bf5397870fe3c16d559c4635552e3df966aa2"
+        },
+        "wide": {
+          "file": "wide/329-c523a2e3e532.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/329-c523a2e3e532.png",
+          "sha256": "c523a2e3e5322d2650419d32765bcfcc28c4121c14ef1ad8b865460d7bfd9b36"
+        }
+      }
+    },
+    {
+      "number": 330,
+      "name": "PL3X Spanish-Language Cinema",
+      "group": "PL3X Curated",
+      "category": "CURATED",
+      "icon": "globe",
+      "formats": {
+        "guide": {
+          "file": "guide/330-af726b71b6c6.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/330-af726b71b6c6.png",
+          "sha256": "af726b71b6c6174ea110ec30fe08ba44ce54b3c5a41896428b3d928e5d45ff3a"
+        },
+        "wide": {
+          "file": "wide/330-e9e165bbc652.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/330-e9e165bbc652.png",
+          "sha256": "e9e165bbc6525dfb9eea68b3a3e8449c8fb1655f69a8ad61a2f0d04f46a8d890"
+        }
+      }
+    },
+    {
+      "number": 401,
+      "name": "PL3X Halloween Cinema",
+      "group": "PL3X Events",
+      "category": "EVENTS",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/401-14a41ec8e1a8.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/401-14a41ec8e1a8.png",
+          "sha256": "14a41ec8e1a8b2d01bee4bfab868bc9e98efba891900b4eb57a7644ae5b7cced"
+        },
+        "wide": {
+          "file": "wide/401-43c1c326e689.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/401-43c1c326e689.png",
+          "sha256": "43c1c326e6894a1e368df55421b36471ae5ec70020c4cbaf21808cc0ba726760"
+        }
+      }
+    },
+    {
+      "number": 402,
+      "name": "PL3X Christmas Movies",
+      "group": "PL3X Events",
+      "category": "EVENTS",
+      "icon": "snowflake",
+      "formats": {
+        "guide": {
+          "file": "guide/402-684ebf6a44f5.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/402-684ebf6a44f5.png",
+          "sha256": "684ebf6a44f5491cd1ef385c89508579d864a192bffb5a08a3766a0105f25d88"
+        },
+        "wide": {
+          "file": "wide/402-269aaad1717f.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/402-269aaad1717f.png",
+          "sha256": "269aaad1717fc11b18343e35b3496e4cae0c3327d8191d0d0c1abdc4b708df72"
+        }
+      }
+    },
+    {
+      "number": 403,
+      "name": "PL3X Thanksgiving Movie Mix",
+      "group": "PL3X Events",
+      "category": "EVENTS",
+      "icon": "calendar-days",
+      "formats": {
+        "guide": {
+          "file": "guide/403-3bc4caa911cf.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/403-3bc4caa911cf.png",
+          "sha256": "3bc4caa911cfeb3b916808024d7adb7d2c890741c6edabbecce3d7ffa1d4de41"
+        },
+        "wide": {
+          "file": "wide/403-37b874805351.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/403-37b874805351.png",
+          "sha256": "37b87480535112ffaa3a243e3084a7446c3fa9e3a7d4365a452f5e88430dc5f7"
+        }
+      }
+    },
+    {
+      "number": 404,
+      "name": "PL3X Valentine Romance",
+      "group": "PL3X Events",
+      "category": "EVENTS",
+      "icon": "heart",
+      "formats": {
+        "guide": {
+          "file": "guide/404-ae8f4ead1af3.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/404-ae8f4ead1af3.png",
+          "sha256": "ae8f4ead1af3f13218592cd10cd3ba48ca82db8857195ede97036072bdece3a7"
+        },
+        "wide": {
+          "file": "wide/404-e040c6724368.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/404-e040c6724368.png",
+          "sha256": "e040c6724368b3febe578970f59bd767eb5f7321513e539ca9fa3c7bbcbe8011"
+        }
+      }
+    },
+    {
+      "number": 405,
+      "name": "PL3X Summer Blockbusters",
+      "group": "PL3X Events",
+      "category": "EVENTS",
+      "icon": "sun",
+      "formats": {
+        "guide": {
+          "file": "guide/405-97d98c8efa48.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/405-97d98c8efa48.png",
+          "sha256": "97d98c8efa482d9dae7f8857a4fef7f232603a2a6f1db641df347f265eeb65de"
+        },
+        "wide": {
+          "file": "wide/405-4fd5cf0af473.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/405-4fd5cf0af473.png",
+          "sha256": "4fd5cf0af473cc93bbb8dc4f84b2470c807be5e4a686fd2384508e46ea7a206c"
+        }
+      }
+    },
+    {
+      "number": 406,
+      "name": "PL3X Winter Classics",
+      "group": "PL3X Events",
+      "category": "EVENTS",
+      "icon": "snowflake",
+      "formats": {
+        "guide": {
+          "file": "guide/406-9ab56fd97bf7.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/406-9ab56fd97bf7.png",
+          "sha256": "9ab56fd97bf7490c482bd5463b09b65a58e462aa04080ce87bee20b0a288b598"
+        },
+        "wide": {
+          "file": "wide/406-02b8762c5113.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/406-02b8762c5113.png",
+          "sha256": "02b8762c511368ff441c2eb55151522eb97d2d16f8d4851586078d3704ed9f30"
+        }
+      }
+    },
+    {
+      "number": 407,
+      "name": "PL3X Friday the 13th",
+      "group": "PL3X Events",
+      "category": "EVENTS",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/407-3e2624912523.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/407-3e2624912523.png",
+          "sha256": "3e2624912523c02b2f567608f8184800f81d6d256467376fae3d1bb24cc39fed"
+        },
+        "wide": {
+          "file": "wide/407-35665e9920d9.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/407-35665e9920d9.png",
+          "sha256": "35665e9920d9e4a015b6206b3a9a7ac62f84d466941cca64681a92207ba0d9bb"
+        }
+      }
+    },
+    {
+      "number": 408,
+      "name": "PL3X Spooky Cartoons",
+      "group": "PL3X Events",
+      "category": "EVENTS",
+      "icon": "ghost",
+      "formats": {
+        "guide": {
+          "file": "guide/408-c84a7d24719b.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/guide/408-c84a7d24719b.png",
+          "sha256": "c84a7d24719b10829bc9cc3e312a69425aeca04641830eb3394c9b145fe66f39"
+        },
+        "wide": {
+          "file": "wide/408-788d89ed5576.png",
+          "url": "https://moebiusrex.github.io/pl3x-channel-artwork/standard-v3/wide/408-788d89ed5576.png",
+          "sha256": "788d89ed5576fe5aa7c6913437f9b24cab5b16fdd03c1621542f823384669919"
+        }
+      }
+    }
+  ]
+}
