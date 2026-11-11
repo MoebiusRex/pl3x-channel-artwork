@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "primary": "wide",
+  "primary_dimensions": [
+    1280,
+    720
+  ],
+  "companion": "guide",
+  "companion_dimensions": [
+    1024,
+    1024
+  ],
+  "description": "Existing image files retained; live logo selection uses widescreen."
+}
